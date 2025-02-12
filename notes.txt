@@ -1,0 +1,30 @@
+[
+  {
+    "key": "/works/OL2827199W",
+    "title": "Life of Pi",
+    "author": ["Yann Martel"],
+    "first_publish_year": 2001,
+    "description": "After the tragic sinking of a cargo ship, one solitary lifeboat remains bobbing on the wild, blue Pacific. The only survivors from the wreck are a sixteen-year-old boy named Pi, a hyena, a zebra (with a broken leg), a female orangutan… and a 450-pound Royal Bengal tiger.",
+    "subjects": [
+      "Teenage boys", "Zoo animals", "Fiction", "Tigers", "Survival at sea", 
+      "Adventure fiction", "Psychological fiction", "Human-animal relationships"
+    ],
+    "cover_image": "https://covers.openlibrary.org/b/id/12840573-L.jpg",
+    "average_rating": 3.96,
+    "num_reviews": 134
+  },
+  {
+    "key": "/works/OL53959W",
+    "title": "Life on the Mississippi",
+    "author": ["Mark Twain"],
+    "first_publish_year": 1883,
+    "description": "At once a romantic history of a mighty river, an autobiographical account of Twain’s early steamboat days, and a storehouse of humorous anecdotes and sketches.",
+    "subjects": [
+      "American Authors", "Fiction", "Historical Fiction", "River life", 
+      "Travel", "Pilots and pilotage", "Social life and customs", "Mississippi River"
+    ],
+    "cover_image": "https://covers.openlibrary.org/b/id/9164717-L.jpg",
+    "average_rating": 3.8,
+    "num_reviews": 5
+  }
+]

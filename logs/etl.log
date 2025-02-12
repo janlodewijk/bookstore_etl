@@ -1,0 +1,1750 @@
+2025-01-27 21:02:22,446 - INFO - ETL pipeline started.
+2025-01-27 21:15:33,180 - INFO - ETL pipeline started.
+2025-01-27 21:39:05,102 - INFO - ETL pipeline started.
+2025-01-27 21:39:27,388 - INFO - ETL pipeline started.
+2025-01-27 21:40:37,783 - INFO - ETL pipeline started.
+2025-01-27 21:40:55,470 - INFO - ETL pipeline started.
+2025-01-27 21:41:32,418 - INFO - ETL pipeline started.
+2025-01-27 21:42:37,944 - INFO - ETL pipeline started.
+2025-01-27 21:44:43,597 - INFO - ETL pipeline started.
+2025-01-27 21:48:46,616 - INFO - ETL pipeline started.
+2025-01-27 21:50:24,174 - INFO - ETL pipeline started.
+2025-01-27 21:51:06,040 - INFO - ETL pipeline started.
+2025-01-27 21:52:53,743 - INFO - ETL pipeline started.
+2025-01-29 10:24:37,830 - INFO - ETL pipeline started.
+2025-01-29 20:25:06,611 - INFO - ETL pipeline started.
+2025-01-29 20:27:56,088 - INFO - ETL pipeline started.
+2025-01-29 20:31:08,302 - INFO - ETL pipeline started.
+2025-01-29 20:32:34,782 - INFO - ETL pipeline started.
+2025-01-29 20:35:52,844 - INFO - ETL pipeline started.
+2025-01-29 20:48:51,107 - INFO - ETL pipeline started.
+2025-01-29 21:02:45,159 - INFO - ETL pipeline started.
+2025-01-29 21:03:22,864 - INFO - ETL pipeline started.
+2025-01-29 21:03:41,475 - INFO - ETL pipeline started.
+2025-01-29 21:07:33,868 - INFO - ETL pipeline started.
+2025-01-29 21:09:14,343 - INFO - ETL pipeline started.
+2025-01-29 21:09:57,292 - INFO - ETL pipeline started.
+2025-01-29 21:13:06,487 - INFO - ETL pipeline started.
+2025-01-29 21:14:39,345 - INFO - ETL pipeline started.
+2025-01-29 21:16:02,409 - INFO - ETL pipeline started.
+2025-01-29 21:16:23,047 - INFO - ETL pipeline started.
+2025-01-29 21:16:42,870 - INFO - ETL pipeline started.
+2025-01-29 21:20:55,804 - INFO - ETL pipeline started.
+2025-01-29 21:21:20,027 - INFO - ETL pipeline started.
+2025-01-29 21:21:44,457 - INFO - ETL pipeline started.
+2025-01-29 21:24:02,051 - INFO - ETL pipeline started.
+2025-01-29 21:27:36,375 - INFO - ETL pipeline started.
+2025-01-29 21:27:53,357 - INFO - ETL pipeline started.
+2025-01-29 21:30:44,971 - INFO - ETL pipeline started.
+2025-01-29 21:37:55,211 - INFO - ETL pipeline started.
+2025-01-29 21:37:55,220 - INFO - Extraction has started
+2025-01-29 21:38:27,221 - INFO - ETL pipeline started.
+2025-01-29 21:38:27,221 - INFO - Extraction has started
+2025-01-29 21:38:45,679 - INFO - ETL pipeline started.
+2025-01-29 21:38:45,680 - INFO - Extraction has started
+2025-01-29 21:40:30,806 - INFO - ETL pipeline started.
+2025-01-29 21:40:30,806 - INFO - Extraction has started
+2025-01-29 21:40:31,550 - INFO - Succesful API request
+2025-01-29 21:41:10,898 - INFO - ETL pipeline started.
+2025-01-29 21:41:10,898 - INFO - Extraction has started
+2025-01-29 21:41:11,597 - ERROR - Error occurred during API request: 404 Client Error: Not Found for url: https://openlibrary.org/search.jsonsdfgdfg?q=python&limit=5
+2025-01-29 21:41:26,852 - INFO - ETL pipeline started.
+2025-01-29 21:41:26,853 - INFO - Extraction has started
+2025-01-29 21:41:28,094 - INFO - Succesful API request
+2025-01-29 21:44:57,112 - INFO - ETL pipeline started.
+2025-01-29 21:44:57,112 - INFO - Extraction has started
+2025-01-29 21:44:58,212 - INFO - Succesful API request
+2025-01-29 21:47:04,377 - INFO - ETL pipeline started.
+2025-01-29 21:47:04,378 - INFO - Extraction has started
+2025-01-29 21:47:05,021 - INFO - Succesful API request
+2025-01-29 21:47:05,021 - INFO - Transforming data
+2025-01-29 21:47:05,021 - INFO - Data succesfully transformed
+2025-01-29 21:52:58,750 - INFO - ETL pipeline started.
+2025-01-29 21:52:58,751 - INFO - Extraction has started
+2025-01-29 21:52:59,434 - INFO - Succesful API request
+2025-01-29 21:52:59,435 - INFO - Transforming data
+2025-01-29 21:52:59,435 - INFO - Data succesfully transformed
+2025-01-29 21:54:30,747 - INFO - ETL pipeline started.
+2025-01-29 21:54:30,748 - INFO - Extraction has started
+2025-01-29 21:54:31,319 - INFO - Succesful API request
+2025-01-29 21:54:31,319 - INFO - Transforming data
+2025-01-29 21:54:31,319 - INFO - Data succesfully transformed
+2025-01-29 21:56:14,057 - INFO - ETL pipeline started.
+2025-01-29 21:56:14,057 - INFO - Extraction has started
+2025-01-29 21:56:14,734 - INFO - Succesful API request
+2025-01-29 21:56:14,734 - INFO - Transforming data
+2025-01-29 21:56:14,736 - INFO - Data succesfully transformed
+2025-01-29 22:03:53,991 - INFO - ETL pipeline started.
+2025-01-29 22:03:53,992 - INFO - Extraction has started
+2025-01-29 22:03:54,700 - INFO - Succesful API request
+2025-01-29 22:03:54,701 - INFO - Transforming data
+2025-01-29 22:03:54,701 - INFO - Data successfully transformed
+2025-01-29 22:04:51,233 - INFO - ETL pipeline started.
+2025-01-29 22:04:51,234 - INFO - Extraction has started
+2025-01-29 22:04:51,771 - INFO - Succesful API request
+2025-01-29 22:04:51,772 - INFO - Transforming data
+2025-01-29 22:04:51,772 - INFO - Data successfully transformed
+2025-01-29 22:07:57,794 - INFO - ETL pipeline started.
+2025-01-29 22:07:57,795 - INFO - Extraction has started
+2025-01-29 22:07:58,349 - INFO - Succesful API request
+2025-01-29 22:07:58,350 - INFO - Transforming data
+2025-01-29 22:09:42,602 - INFO - ETL pipeline started.
+2025-01-29 22:09:42,602 - INFO - Extraction has started
+2025-01-29 22:09:43,221 - INFO - Succesful API request
+2025-01-29 22:09:43,222 - INFO - Transforming data
+2025-01-29 22:09:43,223 - INFO - Data successfully transformed
+2025-01-29 22:10:11,939 - INFO - ETL pipeline started.
+2025-01-29 22:10:11,940 - INFO - Extraction has started
+2025-01-29 22:10:12,503 - INFO - Succesful API request
+2025-01-29 22:10:12,504 - INFO - Transforming data
+2025-01-29 22:10:12,505 - INFO - Data successfully transformed
+2025-01-30 10:34:19,497 - INFO - ETL pipeline started.
+2025-01-30 10:34:19,498 - INFO - Extraction has started
+2025-01-30 10:34:20,226 - INFO - Succesful API request
+2025-01-30 10:34:20,227 - INFO - Transforming data
+2025-01-30 10:34:20,228 - INFO - Data successfully transformed
+2025-01-30 10:36:15,240 - INFO - ETL pipeline started.
+2025-01-30 10:36:15,241 - INFO - Extraction has started
+2025-01-30 10:36:15,790 - INFO - Succesful API request
+2025-01-30 10:36:15,791 - INFO - Transforming data
+2025-01-30 10:36:15,792 - INFO - Data successfully transformed
+2025-01-30 10:36:44,855 - INFO - ETL pipeline started.
+2025-01-30 10:36:44,855 - INFO - Extraction has started
+2025-01-30 10:36:45,418 - INFO - Succesful API request
+2025-01-30 10:36:45,419 - INFO - Transforming data
+2025-01-30 10:36:45,419 - INFO - Data successfully transformed
+2025-01-30 10:59:35,514 - INFO - ETL pipeline started.
+2025-01-30 10:59:35,515 - INFO - Extraction has started
+2025-01-30 10:59:36,102 - INFO - Succesful API request
+2025-01-30 10:59:36,104 - INFO - Transforming data
+2025-01-30 10:59:36,104 - INFO - Data successfully transformed
+2025-01-30 10:59:36,145 - ERROR - Error during data loading: 'method' object does not support the context manager protocol
+2025-01-30 11:01:35,541 - INFO - ETL pipeline started.
+2025-01-30 11:01:35,542 - INFO - Extraction has started
+2025-01-30 11:01:36,087 - INFO - Succesful API request
+2025-01-30 11:01:36,088 - INFO - Transforming data
+2025-01-30 11:01:36,088 - INFO - Data successfully transformed
+2025-01-30 11:01:36,123 - ERROR - Error during data loading: 'method' object does not support the context manager protocol
+2025-01-30 11:04:41,841 - INFO - ETL pipeline started.
+2025-01-30 11:04:41,842 - INFO - Extraction has started
+2025-01-30 11:04:42,456 - INFO - Succesful API request
+2025-01-30 11:04:42,456 - INFO - Transforming data
+2025-01-30 11:04:42,457 - INFO - Data successfully transformed
+2025-01-30 11:04:42,493 - ERROR - Error during data loading: 'method' object does not support the context manager protocol
+2025-01-30 11:06:20,090 - INFO - ETL pipeline started.
+2025-01-30 11:06:20,091 - INFO - Extraction has started
+2025-01-30 11:06:20,682 - INFO - Succesful API request
+2025-01-30 11:06:20,683 - INFO - Transforming data
+2025-01-30 11:06:20,683 - INFO - Data successfully transformed
+2025-01-30 11:06:20,758 - INFO - Databse 'books' does not exist. Creating it now...
+2025-01-30 11:06:20,759 - ERROR - Error during data loading: (psycopg2.errors.ActiveSqlTransaction) CREATE DATABASE cannot run inside a transaction block
+
+[SQL: CREATE DATABASE books]
+(Background on this error at: https://sqlalche.me/e/20/2j85)
+2025-01-30 11:13:24,163 - INFO - ETL pipeline started.
+2025-01-30 11:13:24,164 - INFO - Extraction has started
+2025-01-30 11:13:24,780 - INFO - Succesful API request
+2025-01-30 11:13:24,781 - INFO - Transforming data
+2025-01-30 11:13:24,781 - INFO - Data successfully transformed
+2025-01-30 11:13:24,868 - ERROR - Error during data loading: Not an executable object: "SELECT 1 FROM pg_catalog.pg_database WHERE datname = 'books'"
+2025-01-30 11:14:55,612 - INFO - ETL pipeline started.
+2025-01-30 11:14:55,612 - INFO - Extraction has started
+2025-01-30 11:14:56,167 - INFO - Succesful API request
+2025-01-30 11:14:56,169 - INFO - Transforming data
+2025-01-30 11:14:56,169 - INFO - Data successfully transformed
+2025-01-30 11:14:56,243 - ERROR - Error during data loading: Not an executable object: "SELECT 1 FROM pg_catalog.pg_database WHERE datname = 'books'"
+2025-01-30 11:20:31,487 - INFO - ETL pipeline started.
+2025-01-30 11:20:31,488 - INFO - Extraction has started
+2025-01-30 11:20:32,183 - INFO - Succesful API request
+2025-01-30 11:20:32,184 - INFO - Transforming data
+2025-01-30 11:20:32,184 - INFO - Data successfully transformed
+2025-01-30 11:20:32,259 - INFO - Loading data
+2025-01-30 11:20:32,335 - INFO - Data succesfully loaded.
+2025-01-30 11:39:49,206 - INFO - ETL pipeline started.
+2025-01-30 11:39:49,207 - INFO - Extraction has started
+2025-01-30 11:39:50,012 - INFO - Succesful API request
+2025-01-30 11:39:50,013 - INFO - Transforming data
+2025-01-30 11:39:50,013 - INFO - Data successfully transformed
+2025-01-30 11:39:50,118 - INFO - Loading data
+2025-01-30 11:39:50,206 - INFO - Data succesfully loaded.
+2025-01-30 11:44:56,090 - INFO - ETL pipeline started.
+2025-01-30 11:44:56,091 - INFO - Extraction has started
+2025-01-30 11:44:56,683 - INFO - Succesful API request
+2025-01-30 11:44:56,684 - INFO - Transforming data
+2025-01-30 11:44:56,684 - INFO - Data successfully transformed
+2025-01-30 11:44:56,762 - INFO - Loading data
+2025-01-30 11:44:56,825 - INFO - Data succesfully loaded.
+2025-01-30 11:45:46,287 - INFO - ETL pipeline started.
+2025-01-30 11:45:46,287 - INFO - Extraction has started
+2025-01-30 11:45:47,074 - INFO - Succesful API request
+2025-01-30 11:45:47,075 - INFO - Transforming data
+2025-01-30 11:45:47,076 - INFO - Data successfully transformed
+2025-01-30 11:45:47,261 - INFO - Loading data
+2025-01-30 11:45:47,357 - INFO - Data succesfully loaded.
+2025-01-30 13:21:44,450 - INFO - ETL pipeline started.
+2025-01-30 13:21:44,452 - INFO - Extraction has started
+2025-01-30 13:21:45,610 - INFO - Succesful API request
+2025-01-30 13:21:45,613 - INFO - Transforming data
+2025-01-30 13:21:45,614 - ERROR - Missing required fields: title='Mocking jay', author_name='Unknown author'
+2025-01-30 13:23:10,456 - INFO - ETL pipeline started.
+2025-01-30 13:23:10,456 - INFO - Extraction has started
+2025-01-30 13:23:11,356 - INFO - Succesful API request
+2025-01-30 13:23:11,357 - INFO - Transforming data
+2025-01-30 13:23:11,357 - WARNING - Missing required fields: title='Mocking jay', author_name='Unknown author'
+2025-01-30 13:23:11,357 - INFO - Data successfully transformed
+2025-01-30 13:23:11,554 - INFO - Loading data
+2025-01-30 13:23:11,664 - INFO - Data succesfully loaded.
+2025-01-30 21:44:14,518 - INFO - ETL pipeline started.
+2025-01-30 21:44:14,518 - INFO - Extraction has started
+2025-01-30 21:44:15,237 - INFO - Succesful API request
+2025-01-30 21:44:15,829 - ERROR - Error occurred while fetching metadata for /works/OL2784125W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:16,431 - ERROR - Error occurred while fetching metadata for /works/OL14873289W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:16,941 - ERROR - Error occurred while fetching metadata for /works/OL2784127W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:17,486 - ERROR - Error occurred while fetching metadata for /works/OL19932156W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:17,999 - ERROR - Error occurred while fetching metadata for /works/OL19547345W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:18,996 - ERROR - Error occurred while fetching metadata for /works/OL17422847W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:19,549 - ERROR - Error occurred while fetching metadata for /works/OL16976951W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:20,069 - ERROR - Error occurred while fetching metadata for /works/OL2784126W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:20,578 - ERROR - Error occurred while fetching metadata for /works/OL20155144W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:21,051 - ERROR - Error occurred while fetching metadata for /works/OL17192141W: 404 Client Error: Not Found for url: https://openlibrary.org/works/%7Bkey%7D.json
+2025-01-30 21:44:21,051 - INFO - Extraction has finished
+2025-01-30 21:46:11,715 - INFO - ETL pipeline started.
+2025-01-30 21:46:11,716 - INFO - Extraction has started
+2025-01-30 21:46:12,297 - INFO - Succesful API request
+2025-01-30 21:46:12,972 - ERROR - Error occurred while fetching metadata for /works/OL2784125W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL2784125W.json
+2025-01-30 21:46:13,687 - ERROR - Error occurred while fetching metadata for /works/OL14873289W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL14873289W.json
+2025-01-30 21:46:14,335 - ERROR - Error occurred while fetching metadata for /works/OL2784127W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL2784127W.json
+2025-01-30 21:46:15,124 - ERROR - Error occurred while fetching metadata for /works/OL19932156W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL19932156W.json
+2025-01-30 21:46:15,773 - ERROR - Error occurred while fetching metadata for /works/OL19547345W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL19547345W.json
+2025-01-30 21:46:16,492 - ERROR - Error occurred while fetching metadata for /works/OL17422847W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL17422847W.json
+2025-01-30 21:46:17,140 - ERROR - Error occurred while fetching metadata for /works/OL16976951W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL16976951W.json
+2025-01-30 21:46:17,802 - ERROR - Error occurred while fetching metadata for /works/OL2784126W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL2784126W.json
+2025-01-30 21:46:18,465 - ERROR - Error occurred while fetching metadata for /works/OL20155144W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL20155144W.json
+2025-01-30 21:46:20,293 - ERROR - Error occurred while fetching metadata for /works/OL17192141W: 404 Client Error: Not Found for url: https://openlibrary.org/works/works/OL17192141W.json
+2025-01-30 21:46:20,293 - INFO - Extraction has finished
+2025-01-30 21:47:15,746 - INFO - ETL pipeline started.
+2025-01-30 21:47:15,747 - INFO - Extraction has started
+2025-01-30 21:47:16,322 - INFO - Succesful API request
+2025-01-30 21:47:16,858 - INFO - Succesfully fetched data for /works/OL2784125W
+2025-01-30 21:47:17,344 - INFO - Succesfully fetched data for /works/OL14873289W
+2025-01-30 21:47:17,821 - INFO - Succesfully fetched data for /works/OL2784127W
+2025-01-30 21:47:18,305 - INFO - Succesfully fetched data for /works/OL19932156W
+2025-01-30 21:47:18,807 - INFO - Succesfully fetched data for /works/OL19547345W
+2025-01-30 21:47:19,292 - INFO - Succesfully fetched data for /works/OL17422847W
+2025-01-30 21:47:19,785 - INFO - Succesfully fetched data for /works/OL16976951W
+2025-01-30 21:47:20,299 - INFO - Succesfully fetched data for /works/OL2784126W
+2025-01-30 21:47:20,777 - INFO - Succesfully fetched data for /works/OL20155144W
+2025-01-30 21:47:21,258 - INFO - Succesfully fetched data for /works/OL17192141W
+2025-01-30 21:47:21,258 - INFO - Extraction has finished
+2025-01-30 21:48:45,309 - INFO - ETL pipeline started.
+2025-01-30 21:48:45,309 - INFO - Extraction has started
+2025-01-30 21:48:45,879 - INFO - Succesful API request
+2025-01-30 21:48:46,401 - INFO - Succesfully fetched data for /works/OL2784125W
+2025-01-30 21:48:46,932 - INFO - Succesfully fetched data for /works/OL14873289W
+2025-01-30 21:48:47,498 - INFO - Succesfully fetched data for /works/OL2784127W
+2025-01-30 21:48:48,003 - INFO - Succesfully fetched data for /works/OL19932156W
+2025-01-30 21:48:48,527 - INFO - Succesfully fetched data for /works/OL19547345W
+2025-01-30 21:48:49,116 - INFO - Succesfully fetched data for /works/OL17422847W
+2025-01-30 21:48:49,616 - INFO - Succesfully fetched data for /works/OL16976951W
+2025-01-30 21:48:50,124 - INFO - Succesfully fetched data for /works/OL2784126W
+2025-01-30 21:48:50,641 - INFO - Succesfully fetched data for /works/OL20155144W
+2025-01-30 21:48:51,130 - INFO - Succesfully fetched data for /works/OL17192141W
+2025-01-30 21:48:51,132 - INFO - Extraction has finished
+2025-01-30 21:49:34,996 - INFO - ETL pipeline started.
+2025-01-30 21:49:34,996 - INFO - Extraction has started
+2025-01-30 21:49:35,567 - INFO - Succesful API request
+2025-01-30 21:49:36,745 - INFO - Succesfully fetched data for /works/OL659062W
+2025-01-30 21:49:37,271 - INFO - Succesfully fetched data for /works/OL16253633W
+2025-01-30 21:49:37,272 - INFO - Extraction has finished
+2025-01-30 21:50:07,124 - INFO - ETL pipeline started.
+2025-01-30 21:50:07,125 - INFO - Extraction has started
+2025-01-30 21:50:07,717 - INFO - Succesful API request
+2025-01-30 21:50:08,204 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-01-30 21:50:08,680 - INFO - Succesfully fetched data for /works/OL53959W
+2025-01-30 21:50:08,680 - INFO - Extraction has finished
+2025-01-31 09:26:17,312 - INFO - ETL pipeline started.
+2025-01-31 09:26:17,313 - INFO - Extraction has started
+2025-01-31 09:26:18,810 - INFO - Succesful API request
+2025-01-31 09:26:19,326 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-01-31 09:26:24,479 - INFO - Succesfully fetched data for /works/OL53959W
+2025-01-31 09:26:24,987 - INFO - Extraction has finished
+2025-01-31 09:30:39,170 - INFO - ETL pipeline started.
+2025-01-31 09:30:39,171 - INFO - Extraction has started
+2025-01-31 09:30:39,963 - INFO - Succesful API request
+2025-01-31 09:30:40,472 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-01-31 09:30:41,633 - INFO - Succesfully fetched data for /works/OL53959W
+2025-01-31 09:30:43,202 - INFO - Extraction has finished
+2025-02-05 10:03:58,481 - INFO - ETL pipeline started.
+2025-02-05 10:03:58,486 - INFO - Extraction has started
+2025-02-05 10:03:59,625 - INFO - Succesful API request
+2025-02-05 10:04:00,124 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:04:01,191 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:04:01,729 - INFO - Extraction has finished
+2025-02-05 10:14:10,700 - INFO - ETL pipeline started.
+2025-02-05 10:14:10,700 - INFO - Extraction has started
+2025-02-05 10:14:11,346 - INFO - Succesful API request
+2025-02-05 10:14:11,853 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:14:13,103 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:14:13,688 - INFO - Extraction has finished
+2025-02-05 10:14:13,688 - INFO - Transforming data
+2025-02-05 10:14:34,613 - INFO - ETL pipeline started.
+2025-02-05 10:14:34,613 - INFO - Extraction has started
+2025-02-05 10:14:35,312 - INFO - Succesful API request
+2025-02-05 10:14:35,846 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:14:37,387 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:14:38,073 - INFO - Extraction has finished
+2025-02-05 10:14:38,077 - INFO - Transforming data
+2025-02-05 10:14:38,077 - INFO - Data successfully transformed
+2025-02-05 10:15:05,892 - INFO - ETL pipeline started.
+2025-02-05 10:15:05,892 - INFO - Extraction has started
+2025-02-05 10:15:07,072 - INFO - Succesful API request
+2025-02-05 10:15:07,569 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:15:09,006 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:15:10,830 - INFO - Succesfully fetched data for /works/OL259026W
+2025-02-05 10:15:12,703 - INFO - Succesfully fetched data for /works/OL45503W
+2025-02-05 10:15:14,364 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-05 10:15:15,634 - INFO - Succesfully fetched data for /works/OL17732W
+2025-02-05 10:15:16,698 - INFO - Succesfully fetched data for /works/OL810991W
+2025-02-05 10:15:17,727 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-05 10:15:18,741 - INFO - Succesfully fetched data for /works/OL1086528W
+2025-02-05 10:15:19,805 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-05 10:15:20,355 - INFO - Extraction has finished
+2025-02-05 10:15:20,355 - INFO - Transforming data
+2025-02-05 10:15:20,355 - INFO - Data successfully transformed
+2025-02-05 10:56:10,461 - INFO - ETL pipeline started.
+2025-02-05 10:56:10,461 - INFO - Extraction has started
+2025-02-05 10:56:11,508 - INFO - Succesful API request
+2025-02-05 10:56:12,002 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:56:13,120 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:56:15,812 - INFO - Succesfully fetched data for /works/OL259026W
+2025-02-05 10:56:16,797 - INFO - Succesfully fetched data for /works/OL45503W
+2025-02-05 10:56:17,773 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-05 10:56:18,961 - INFO - Succesfully fetched data for /works/OL17732W
+2025-02-05 10:56:19,950 - INFO - Succesfully fetched data for /works/OL810991W
+2025-02-05 10:56:20,985 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-05 10:56:22,009 - INFO - Succesfully fetched data for /works/OL1086528W
+2025-02-05 10:56:22,994 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-05 10:56:23,504 - INFO - Extraction has finished
+2025-02-05 10:56:23,504 - INFO - Transforming data
+2025-02-05 10:56:23,516 - INFO - Data successfully transformed
+2025-02-05 10:58:59,246 - INFO - ETL pipeline started.
+2025-02-05 10:58:59,249 - INFO - Extraction has started
+2025-02-05 10:59:00,604 - INFO - Succesful API request
+2025-02-05 10:59:01,096 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 10:59:02,144 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 10:59:03,189 - INFO - Succesfully fetched data for /works/OL259026W
+2025-02-05 10:59:04,200 - INFO - Succesfully fetched data for /works/OL45503W
+2025-02-05 10:59:05,213 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-05 10:59:06,441 - INFO - Succesfully fetched data for /works/OL17732W
+2025-02-05 10:59:07,545 - INFO - Succesfully fetched data for /works/OL810991W
+2025-02-05 10:59:08,576 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-05 10:59:14,711 - INFO - Succesfully fetched data for /works/OL1086528W
+2025-02-05 10:59:15,692 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-05 10:59:16,270 - INFO - Extraction has finished
+2025-02-05 10:59:16,271 - INFO - Transforming data
+2025-02-05 10:59:16,271 - INFO - Data successfully transformed
+2025-02-05 11:09:12,069 - INFO - ETL pipeline started.
+2025-02-05 11:09:12,070 - INFO - Extraction has started
+2025-02-05 11:09:13,522 - INFO - Succesful API request
+2025-02-05 11:09:14,004 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 11:09:15,052 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 11:09:16,055 - INFO - Succesfully fetched data for /works/OL259026W
+2025-02-05 11:09:17,097 - INFO - Succesfully fetched data for /works/OL45503W
+2025-02-05 11:09:18,144 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-05 11:09:19,358 - INFO - Succesfully fetched data for /works/OL17732W
+2025-02-05 11:09:20,386 - INFO - Succesfully fetched data for /works/OL810991W
+2025-02-05 11:09:21,417 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-05 11:09:22,482 - INFO - Succesfully fetched data for /works/OL1086528W
+2025-02-05 11:09:23,543 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-05 11:09:24,195 - INFO - Extraction has finished
+2025-02-05 11:09:24,195 - INFO - Transforming data
+2025-02-05 11:09:24,206 - INFO - Data successfully transformed
+2025-02-05 11:11:42,367 - INFO - ETL pipeline started.
+2025-02-05 11:11:42,367 - INFO - Extraction has started
+2025-02-05 11:11:43,097 - INFO - Succesful API request
+2025-02-05 11:11:43,584 - INFO - Succesfully fetched data for /works/OL41081W
+2025-02-05 11:11:44,611 - INFO - Succesfully fetched data for /works/OL15104131W
+2025-02-05 11:11:45,647 - INFO - Succesfully fetched data for /works/OL3494699W
+2025-02-05 11:12:15,394 - INFO - ETL pipeline started.
+2025-02-05 11:12:15,394 - INFO - Extraction has started
+2025-02-05 11:12:16,412 - INFO - Succesful API request
+2025-02-05 11:12:16,914 - INFO - Succesfully fetched data for /works/OL2827199W
+2025-02-05 11:12:17,953 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-05 11:12:18,969 - INFO - Succesfully fetched data for /works/OL259026W
+2025-02-05 11:12:19,980 - INFO - Succesfully fetched data for /works/OL45503W
+2025-02-05 11:12:21,060 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-05 11:12:22,257 - INFO - Succesfully fetched data for /works/OL17732W
+2025-02-05 11:12:23,291 - INFO - Succesfully fetched data for /works/OL810991W
+2025-02-05 11:12:24,303 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-05 11:12:25,317 - INFO - Succesfully fetched data for /works/OL1086528W
+2025-02-05 11:12:26,381 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-05 11:12:26,931 - INFO - Extraction has finished
+2025-02-05 11:12:26,931 - INFO - Transforming data
+2025-02-05 11:12:26,934 - INFO - Data successfully transformed
+2025-02-05 11:12:32,763 - INFO - ETL pipeline started.
+2025-02-05 11:12:32,763 - INFO - Extraction has started
+2025-02-05 11:12:33,276 - INFO - Succesful API request
+2025-02-05 11:12:33,792 - INFO - Succesfully fetched data for /works/OL41081W
+2025-02-05 11:12:34,809 - INFO - Succesfully fetched data for /works/OL15104131W
+2025-02-05 11:12:35,839 - INFO - Succesfully fetched data for /works/OL3494699W
+2025-02-05 11:18:54,784 - INFO - ETL pipeline started.
+2025-02-05 11:18:54,785 - INFO - Extraction has started
+2025-02-05 11:18:55,386 - INFO - Succesful API request
+2025-02-05 11:18:55,893 - INFO - Succesfully fetched data for /works/OL41081W
+2025-02-05 11:18:56,929 - INFO - Succesfully fetched data for /works/OL15104131W
+2025-02-05 11:18:57,946 - INFO - Succesfully fetched data for /works/OL3494699W
+2025-02-05 11:18:59,025 - INFO - Succesfully fetched data for /works/OL19740486W
+2025-02-05 11:24:15,393 - INFO - ETL pipeline started.
+2025-02-05 11:24:15,393 - INFO - Extraction has started
+2025-02-05 11:24:16,012 - INFO - Succesful API request
+2025-02-05 11:24:16,573 - INFO - Succesfully fetched data for /works/OL41081W
+2025-02-05 11:24:17,764 - INFO - Succesfully fetched data for /works/OL15104131W
+2025-02-05 11:24:18,819 - INFO - Succesfully fetched data for /works/OL3494699W
+2025-02-05 11:24:19,899 - INFO - Succesfully fetched data for /works/OL19740486W
+2025-02-05 11:24:20,972 - INFO - Succesfully fetched data for /works/OL10536882W
+2025-02-05 11:24:22,012 - INFO - Succesfully fetched data for /works/OL34772801W
+2025-02-05 11:24:23,042 - INFO - Succesfully fetched data for /works/OL109958W
+2025-02-05 11:24:24,167 - INFO - Succesfully fetched data for /works/OL8718968W
+2025-02-05 11:24:25,232 - INFO - Succesfully fetched data for /works/OL17862811W
+2025-02-05 11:24:27,734 - INFO - Succesfully fetched data for /works/OL30242770W
+2025-02-05 11:24:28,293 - INFO - Extraction has finished
+2025-02-05 11:24:28,293 - INFO - Transforming data
+2025-02-05 11:24:28,293 - INFO - Data successfully transformed
+2025-02-05 11:27:13,375 - INFO - ETL pipeline started.
+2025-02-05 11:27:13,375 - INFO - Extraction has started
+2025-02-05 11:27:14,103 - INFO - Succesful API request
+2025-02-05 11:27:14,602 - INFO - Succesfully fetched data for /works/OL41081W
+2025-02-05 11:27:16,081 - INFO - Succesfully fetched data for /works/OL15104131W
+2025-02-05 11:27:17,985 - INFO - Succesfully fetched data for /works/OL3494699W
+2025-02-05 11:27:19,244 - INFO - Succesfully fetched data for /works/OL19740486W
+2025-02-05 11:27:20,269 - INFO - Succesfully fetched data for /works/OL10536882W
+2025-02-05 11:27:21,338 - INFO - Succesfully fetched data for /works/OL34772801W
+2025-02-05 11:27:23,048 - INFO - Succesfully fetched data for /works/OL109958W
+2025-02-05 11:27:24,310 - INFO - Succesfully fetched data for /works/OL8718968W
+2025-02-05 11:27:25,342 - INFO - Succesfully fetched data for /works/OL17862811W
+2025-02-05 11:27:26,388 - INFO - Succesfully fetched data for /works/OL30242770W
+2025-02-05 11:27:26,920 - INFO - Extraction has finished
+2025-02-05 11:27:26,920 - INFO - Transforming data
+2025-02-05 11:27:26,920 - INFO - Data successfully transformed
+2025-02-05 11:27:27,436 - INFO - Loading data
+2025-02-05 11:27:27,584 - INFO - Data succesfully loaded.
+2025-02-09 14:10:12,727 - INFO - ETL pipeline started.
+2025-02-09 14:10:12,729 - INFO - Extraction has started
+2025-02-09 14:10:13,921 - INFO - Succesful API request
+2025-02-09 14:10:14,489 - INFO - Succesfully fetched data for /works/OL78359W
+2025-02-09 14:10:15,529 - INFO - Succesfully fetched data for /works/OL44973W
+2025-02-09 14:10:16,543 - INFO - Succesfully fetched data for /works/OL2564006W
+2025-02-09 14:10:17,582 - INFO - Succesfully fetched data for /works/OL63009W
+2025-02-09 14:10:18,632 - INFO - Succesfully fetched data for /works/OL7960560W
+2025-02-09 14:10:20,214 - INFO - Succesfully fetched data for /works/OL655908W
+2025-02-09 14:10:21,268 - INFO - Succesfully fetched data for /works/OL362699W
+2025-02-09 14:10:22,338 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-09 14:10:23,336 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-09 14:10:24,363 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-09 14:10:24,909 - INFO - Extraction has finished
+2025-02-09 14:10:24,910 - INFO - Transforming data
+2025-02-09 14:10:24,912 - INFO - Data successfully transformed
+2025-02-09 14:10:25,142 - INFO - Loading data
+2025-02-09 14:10:25,288 - INFO - Data succesfully loaded.
+2025-02-09 14:33:58,895 - INFO - ETL pipeline started.
+2025-02-09 14:33:58,895 - INFO - Extraction has started
+2025-02-09 14:34:00,533 - INFO - Succesful API request
+2025-02-09 14:34:01,106 - INFO - Succesfully fetched data for /works/OL78359W
+2025-02-09 14:34:02,139 - INFO - Succesfully fetched data for /works/OL44973W
+2025-02-09 14:34:03,189 - INFO - Succesfully fetched data for /works/OL2564006W
+2025-02-09 14:34:04,242 - INFO - Succesfully fetched data for /works/OL63009W
+2025-02-09 14:34:05,259 - INFO - Succesfully fetched data for /works/OL7960560W
+2025-02-09 14:34:06,379 - INFO - Succesfully fetched data for /works/OL655908W
+2025-02-09 14:34:07,403 - INFO - Succesfully fetched data for /works/OL362699W
+2025-02-09 14:34:08,515 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-09 14:34:09,573 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-09 14:34:10,585 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-09 14:34:11,109 - INFO - Extraction has finished
+2025-02-09 14:34:11,109 - INFO - Transforming data
+2025-02-09 14:34:11,111 - INFO - Data successfully transformed
+2025-02-09 14:34:11,233 - INFO - Loading data
+2025-02-09 14:34:11,260 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" of relation "books" does not exist
+LINE 1: INSERT INTO books (key, title, author, first_publish_year, d...
+                           ^
+
+[SQL: INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews) VALUES (%(key__0)s, %(title__0)s, %(author__0)s, %(first_publish_year__0)s, %(description__0)s, %(subjects__0)s, %(cover_url__0)s, % ... 1413 characters truncated ... __9)s, %(description__9)s, %(subjects__9)s, %(cover_url__9)s, %(avg_rating__9)s, %(num_reviews__9)s)]
+[parameters: {'subjects__0': ['teenage girls', 'girls', 'fiction', 'classic literature', 'poor families'], 'author__0': 'Betty Smith', 'description__0': "The beloved American classic about a young girl's coming-of-age at the turn of the century, Betty Smith's A Tree Grows in Brooklyn is a poignant and  ... (484 characters truncated) ... nectedness -- in a work of literary art that brilliantly captures a unique time and place as well as incredibly rich moments of universal experience.", 'first_publish_year__0': 1943, 'avg_rating__0': 4.33, 'cover_url__0': 'https://covers.openlibrary.org/b/id/14559662-L.jpg', 'num_reviews__0': 24, 'title__0': 'A tree grows in Brooklyn', 'key__0': '/works/OL78359W', 'subjects__1': ['wessex (england), fiction', 'man-woman relationships, fiction', 'teachers, fiction', 'musicians, fiction', 'choirs (music)'], 'author__1': 'Thomas Hardy', 'description__1': "Under the Greenwood Tree is the story of the romantic entanglement between church musician, Dick Dewey, and the attractive new school mistress, Fancy Day. A pleasant romantic tale set in the Victorian era, Under the Greenwood Tree is one of Thomas Hardy's most gentle and pastoral novels.", 'first_publish_year__1': 1872, 'avg_rating__1': 3.33, 'cover_url__1': 'https://covers.openlibrary.org/b/id/902186-L.jpg', 'num_reviews__1': 3, 'title__1': 'Under the Greenwood Tree or, The Mellstock quire', 'key__1': '/works/OL44973W', 'subjects__2': ['classic literature', 'concordances', 'fiction', 'illustrations', 'japanese fiction'], 'author__2': 'Murasaki Shikibu', 'description__2': '**The most famous work of Japanese literature and the world\'s first novel—written a thousand years ago and one of the enduring classics of world lit ... (1460 characters truncated) ... ilies of the Heian period. After the death of her husband, Shikibu immersed herself in Buddhism, and the religion\'s influence permeates her writing.', 'first_publish_year__2': 1900, 'avg_rating__2': 4.0, 'cover_url__2': 'https://covers.openlibrary.org/b/id/6614001-L.jpg', 'num_reviews__2': 7, 'title__2': 'Genji monogatari', 'key__2': '/works/OL2564006W', 'subjects__3': ['spain in fiction', 'fiction', 'history', 'spanish civil war', 'americans'], 'author__3': 'Ernest Hemingway', 'description__3': "High in the pine forests of the Spanish Sierra, a guerrilla band prepares to blow up a vital bridge. Robert Jordan, a young American volunteer, has b ... (49 characters truncated) ... mountains, he finds the dangers and the intense comradeship of war. And there he discovers Maria, a young woman who has escaped from Franco's rebels.", 'first_publish_year__3': 1940, 'avg_rating__3': 3.47, 'cover_url__3': 'https://covers.openlibrary.org/b/id/2560810-L.jpg', 'num_reviews__3': 17, 'title__3': 'For Whom the Bell Tolls', 'key__3': '/works/OL63009W', 'subjects__4': ['witches', 'communication', 'mass media', 'juvenile literature', 'history'], 'author__4': 'DK Publishing', 'description__4': 'Witches and magic-makers for children', 'first_publish_year__4': 2000, 'avg_rating__4': 4.0, 'cover_url__4': 'https://covers.openlibrary.org/b/id/-1-L.jpg', 'num_reviews__4': 5, 'title__4': 'Eyewitness', 'key__4': '/works/OL7960560W', 'subjects__5': ['santa in juvenile prison', 'juvenile poetry', 'poetry', 'santa claus', 'christmas'], 'author__5': 'Clement Clarke Moore', 'description__5': 'A well-known poem about an important Christmas Eve visitor.', 'first_publish_year__5': 1857, 'avg_rating__5': 3.64, 'cover_url__5': 'https://covers.openlibrary.org/b/id/8236410-L.jpg', 'num_reviews__5': 28, 'title__5': 'The Night Before Christmas', 'key__5': '/works/OL655908W', 'subjects__6': ['plays / drama', 'literary criticism', 'classics', 'play', 'performing arts'], 'author__6': 'William Shakespeare', 'description__6': "The Tempest is a play by William Shakespeare, believed to have been written in 1610–11, and thought by many critics to be the last play that Shakespe ... (343 characters truncated) ... achinations bring about the revelation of Antonio's lowly nature, the redemption of the King, and the marriage of Miranda to Alonso's son, Ferdinand.", 'first_publish_year__6': 1611, 'avg_rating__6': 4.0, 'cover_url__6': 'https://covers.openlibrary.org/b/id/8155661-L.jpg', 'num_reviews__6': 50, 'title__6': 'Tempest', 'key__6': '/works/OL362699W', 'subjects__7': ['Subject unknown'], 'author__7': 'SuperSummary', 'description__7': 'nice', 'first_publish_year__7': 2017, 'avg_rating__7': 3.5, 'cover_url__7': 'https://covers.openlibrary.org/b/id/12366237-L.jpg', 'num_reviews__7': 6, 'title__7': 'Study Guide', 'key__7': '/works/OL21868175W', 'subjects__8': ['sociology'], 'author__8': 'Supersummary', 'description__8': "GOFFMAN'S, INTERACTION", 'first_publish_year__8': 2019, 'avg_rating__8': 3.0, 'cover_url__8': 'https://covers.openlibrary.org/b/id/13175019-L.jpg', 'num_reviews__8': 3, 'title__8': 'Study Guide', 'key__8': '/works/OL21885963W', 'subjects__9': ['history', 'fiction', 'swordsmen', 'france in fiction', 'accessible book'], 'author__9': 'Alexandre Dumas', 'description__9': "During the reign of France's King Louis XIV, D'Artagnan and three musketeers unite to defend the honor of Anne of Austria against the plots of Cardinal Richeliu.", 'first_publish_year__9': 1844, 'avg_rating__9': 3.96, 'cover_url__9': 'https://covers.openlibrary.org/b/id/11929973-L.jpg', 'num_reviews__9': 23, 'title__9': 'Les Trois Mousquetaires', 'key__9': '/works/OL36861W'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 14:35:37,082 - INFO - ETL pipeline started.
+2025-02-09 14:35:37,082 - INFO - Extraction has started
+2025-02-09 14:35:38,074 - INFO - Succesful API request
+2025-02-09 14:35:38,570 - INFO - Succesfully fetched data for /works/OL78359W
+2025-02-09 14:35:39,610 - INFO - Succesfully fetched data for /works/OL44973W
+2025-02-09 14:35:40,671 - INFO - Succesfully fetched data for /works/OL2564006W
+2025-02-09 14:35:41,685 - INFO - Succesfully fetched data for /works/OL63009W
+2025-02-09 14:35:42,770 - INFO - Succesfully fetched data for /works/OL7960560W
+2025-02-09 14:35:43,884 - INFO - Succesfully fetched data for /works/OL655908W
+2025-02-09 14:35:45,042 - INFO - Succesfully fetched data for /works/OL362699W
+2025-02-09 14:35:46,127 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-09 14:35:47,154 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-09 14:35:48,240 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-09 14:35:48,773 - INFO - Extraction has finished
+2025-02-09 14:35:48,775 - INFO - Transforming data
+2025-02-09 14:35:48,777 - INFO - Data successfully transformed
+2025-02-09 14:35:48,859 - INFO - Loading data
+2025-02-09 14:35:48,872 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" of relation "books" does not exist
+LINE 1: INSERT INTO books (key, title, author, first_publish_year, d...
+                           ^
+
+[SQL: INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews) VALUES (%(key__0)s, %(title__0)s, %(author__0)s, %(first_publish_year__0)s, %(description__0)s, %(subjects__0)s, %(cover_url__0)s, % ... 1413 characters truncated ... __9)s, %(description__9)s, %(subjects__9)s, %(cover_url__9)s, %(avg_rating__9)s, %(num_reviews__9)s)]
+[parameters: {'subjects__0': ['teenage girls', 'girls', 'fiction', 'classic literature', 'poor families'], 'description__0': "The beloved American classic about a young girl's coming-of-age at the turn of the century, Betty Smith's A Tree Grows in Brooklyn is a poignant and  ... (484 characters truncated) ... nectedness -- in a work of literary art that brilliantly captures a unique time and place as well as incredibly rich moments of universal experience.", 'first_publish_year__0': 1943, 'key__0': '/works/OL78359W', 'num_reviews__0': 24, 'avg_rating__0': 4.33, 'author__0': 'Betty Smith', 'cover_url__0': 'https://covers.openlibrary.org/b/id/14559662-L.jpg', 'title__0': 'A tree grows in Brooklyn', 'subjects__1': ['wessex (england), fiction', 'man-woman relationships, fiction', 'teachers, fiction', 'musicians, fiction', 'choirs (music)'], 'description__1': "Under the Greenwood Tree is the story of the romantic entanglement between church musician, Dick Dewey, and the attractive new school mistress, Fancy Day. A pleasant romantic tale set in the Victorian era, Under the Greenwood Tree is one of Thomas Hardy's most gentle and pastoral novels.", 'first_publish_year__1': 1872, 'key__1': '/works/OL44973W', 'num_reviews__1': 3, 'avg_rating__1': 3.33, 'author__1': 'Thomas Hardy', 'cover_url__1': 'https://covers.openlibrary.org/b/id/902186-L.jpg', 'title__1': 'Under the Greenwood Tree or, The Mellstock quire', 'subjects__2': ['classic literature', 'concordances', 'fiction', 'illustrations', 'japanese fiction'], 'description__2': '**The most famous work of Japanese literature and the world\'s first novel—written a thousand years ago and one of the enduring classics of world lit ... (1460 characters truncated) ... ilies of the Heian period. After the death of her husband, Shikibu immersed herself in Buddhism, and the religion\'s influence permeates her writing.', 'first_publish_year__2': 1900, 'key__2': '/works/OL2564006W', 'num_reviews__2': 7, 'avg_rating__2': 4.0, 'author__2': 'Murasaki Shikibu', 'cover_url__2': 'https://covers.openlibrary.org/b/id/6614001-L.jpg', 'title__2': 'Genji monogatari', 'subjects__3': ['spain in fiction', 'fiction', 'history', 'spanish civil war', 'americans'], 'description__3': "High in the pine forests of the Spanish Sierra, a guerrilla band prepares to blow up a vital bridge. Robert Jordan, a young American volunteer, has b ... (49 characters truncated) ... mountains, he finds the dangers and the intense comradeship of war. And there he discovers Maria, a young woman who has escaped from Franco's rebels.", 'first_publish_year__3': 1940, 'key__3': '/works/OL63009W', 'num_reviews__3': 17, 'avg_rating__3': 3.47, 'author__3': 'Ernest Hemingway', 'cover_url__3': 'https://covers.openlibrary.org/b/id/2560810-L.jpg', 'title__3': 'For Whom the Bell Tolls', 'subjects__4': ['witches', 'communication', 'mass media', 'juvenile literature', 'history'], 'description__4': 'Witches and magic-makers for children', 'first_publish_year__4': 2000, 'key__4': '/works/OL7960560W', 'num_reviews__4': 5, 'avg_rating__4': 4.0, 'author__4': 'DK Publishing', 'cover_url__4': 'https://covers.openlibrary.org/b/id/-1-L.jpg', 'title__4': 'Eyewitness', 'subjects__5': ['santa in juvenile prison', 'juvenile poetry', 'poetry', 'santa claus', 'christmas'], 'description__5': 'A well-known poem about an important Christmas Eve visitor.', 'first_publish_year__5': 1857, 'key__5': '/works/OL655908W', 'num_reviews__5': 28, 'avg_rating__5': 3.64, 'author__5': 'Clement Clarke Moore', 'cover_url__5': 'https://covers.openlibrary.org/b/id/8236410-L.jpg', 'title__5': 'The Night Before Christmas', 'subjects__6': ['plays / drama', 'literary criticism', 'classics', 'play', 'performing arts'], 'description__6': "The Tempest is a play by William Shakespeare, believed to have been written in 1610–11, and thought by many critics to be the last play that Shakespe ... (343 characters truncated) ... achinations bring about the revelation of Antonio's lowly nature, the redemption of the King, and the marriage of Miranda to Alonso's son, Ferdinand.", 'first_publish_year__6': 1611, 'key__6': '/works/OL362699W', 'num_reviews__6': 50, 'avg_rating__6': 4.0, 'author__6': 'William Shakespeare', 'cover_url__6': 'https://covers.openlibrary.org/b/id/8155661-L.jpg', 'title__6': 'Tempest', 'subjects__7': ['Subject unknown'], 'description__7': 'nice', 'first_publish_year__7': 2017, 'key__7': '/works/OL21868175W', 'num_reviews__7': 6, 'avg_rating__7': 3.5, 'author__7': 'SuperSummary', 'cover_url__7': 'https://covers.openlibrary.org/b/id/12366237-L.jpg', 'title__7': 'Study Guide', 'subjects__8': ['sociology'], 'description__8': "GOFFMAN'S, INTERACTION", 'first_publish_year__8': 2019, 'key__8': '/works/OL21885963W', 'num_reviews__8': 3, 'avg_rating__8': 3.0, 'author__8': 'Supersummary', 'cover_url__8': 'https://covers.openlibrary.org/b/id/13175019-L.jpg', 'title__8': 'Study Guide', 'subjects__9': ['history', 'fiction', 'swordsmen', 'france in fiction', 'accessible book'], 'description__9': "During the reign of France's King Louis XIV, D'Artagnan and three musketeers unite to defend the honor of Anne of Austria against the plots of Cardinal Richeliu.", 'first_publish_year__9': 1844, 'key__9': '/works/OL36861W', 'num_reviews__9': 23, 'avg_rating__9': 3.96, 'author__9': 'Alexandre Dumas', 'cover_url__9': 'https://covers.openlibrary.org/b/id/11929973-L.jpg', 'title__9': 'Les Trois Mousquetaires'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 14:36:28,433 - INFO - ETL pipeline started.
+2025-02-09 14:36:28,434 - INFO - Extraction has started
+2025-02-09 14:36:29,143 - INFO - Succesful API request
+2025-02-09 14:36:29,661 - INFO - Succesfully fetched data for /works/OL5353859W
+2025-02-09 14:36:30,668 - INFO - Succesfully fetched data for /works/OL660968W
+2025-02-09 14:36:31,747 - INFO - Succesfully fetched data for /works/OL2619028W
+2025-02-09 14:36:32,804 - INFO - Succesfully fetched data for /works/OL8033635W
+2025-02-09 14:36:33,858 - INFO - Succesfully fetched data for /works/OL24819563W
+2025-02-09 14:36:35,113 - INFO - Succesfully fetched data for /works/OL9203583W
+2025-02-09 14:36:36,230 - INFO - Succesfully fetched data for /works/OL3015356W
+2025-02-09 14:36:37,337 - INFO - Succesfully fetched data for /works/OL30884170W
+2025-02-09 14:36:38,820 - INFO - Succesfully fetched data for /works/OL33961140W
+2025-02-09 14:36:39,871 - INFO - Succesfully fetched data for /works/OL8277443W
+2025-02-09 14:36:40,397 - INFO - Extraction has finished
+2025-02-09 14:36:40,398 - INFO - Transforming data
+2025-02-09 14:36:40,398 - INFO - Data successfully transformed
+2025-02-09 14:36:40,474 - INFO - Loading data
+2025-02-09 14:36:40,487 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" of relation "books" does not exist
+LINE 1: INSERT INTO books (key, title, author, first_publish_year, d...
+                           ^
+
+[SQL: INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews) VALUES (%(key__0)s, %(title__0)s, %(author__0)s, %(first_publish_year__0)s, %(description__0)s, %(subjects__0)s, %(cover_url__0)s, % ... 1413 characters truncated ... __9)s, %(description__9)s, %(subjects__9)s, %(cover_url__9)s, %(avg_rating__9)s, %(num_reviews__9)s)]
+[parameters: {'subjects__0': ['broadcasting', 'humor', 'anecdotes'], 'first_publish_year__0': 1984, 'cover_url__0': None, 'avg_rating__0': None, 'title__0': 'Bloopers, bloopers, bloopers', 'author__0': 'Kermit Schafer', 'key__0': '/works/OL5353859W', 'num_reviews__0': 0, 'description__0': 'No description available', 'subjects__1': ['baseball', 'juvenile literature', 'miscellanea'], 'first_publish_year__1': 1998, 'cover_url__1': 'https://covers.openlibrary.org/b/id/616334-L.jpg', 'avg_rating__1': None, 'title__1': 'Baseball bloopers', 'author__1': 'Bill Gutman', 'key__1': '/works/OL660968W', 'num_reviews__1': 0, 'description__1': 'No description available', 'subjects__2': ['Subject unknown'], 'first_publish_year__2': 1990, 'cover_url__2': 'https://covers.openlibrary.org/b/id/12899121-L.jpg', 'avg_rating__2': None, 'title__2': 'Baseball bloopers', 'author__2': 'Lisa Eisenberg', 'key__2': '/works/OL2619028W', 'num_reviews__2': 0, 'description__2': 'No description available', 'subjects__3': ['Subject unknown'], 'first_publish_year__3': 1986, 'cover_url__3': None, 'avg_rating__3': None, 'title__3': 'Bloopers', 'author__3': 'Silhouette', 'key__3': '/works/OL8033635W', 'num_reviews__3': 0, 'description__3': 'No description available', 'subjects__4': ['Subject unknown'], 'first_publish_year__4': 2018, 'cover_url__4': 'https://covers.openlibrary.org/b/id/11610408-L.jpg', 'avg_rating__4': None, 'title__4': 'Blooper', 'author__4': 'Gordon Peil', 'key__4': '/works/OL24819563W', 'num_reviews__4': 0, 'description__4': 'No description available', 'subjects__5': ['Subject unknown'], 'first_publish_year__5': 1995, 'cover_url__5': None, 'avg_rating__5': None, 'title__5': 'Bloopers', 'author__5': 'American Audio Great', 'key__5': '/works/OL9203583W', 'num_reviews__5': 0, 'description__5': 'No description available', 'subjects__6': ['motion pictures', 'miscellanea', 'humor'], 'first_publish_year__6': 1994, 'cover_url__6': None, 'avg_rating__6': None, 'title__6': 'Bloopers', 'author__6': 'Matteo Molinari', 'key__6': '/works/OL3015356W', 'num_reviews__6': 0, 'description__6': 'No description available', 'subjects__7': ['Subject unknown'], 'first_publish_year__7': 2021, 'cover_url__7': None, 'avg_rating__7': None, 'title__7': 'Billionaire Blooper', 'author__7': 'Lolita Thorne', 'key__7': '/works/OL30884170W', 'num_reviews__7': 0, 'description__7': 'No description available', 'subjects__8': ['Subject unknown'], 'first_publish_year__8': 1973, 'cover_url__8': None, 'avg_rating__8': None, 'title__8': 'Best of Bloopers', 'author__8': 'Unknown', 'key__8': '/works/OL33961140W', 'num_reviews__8': 0, 'description__8': 'No description available', 'subjects__9': ['Subject unknown'], 'first_publish_year__9': 1988, 'cover_url__9': None, 'avg_rating__9': None, 'title__9': 'Blooper Set', 'author__9': 'Unknown', 'key__9': '/works/OL8277443W', 'num_reviews__9': 0, 'description__9': 'No description available'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 14:37:59,189 - INFO - ETL pipeline started.
+2025-02-09 14:37:59,189 - INFO - Extraction has started
+2025-02-09 14:37:59,710 - INFO - Succesful API request
+2025-02-09 14:38:00,216 - INFO - Succesfully fetched data for /works/OL5353859W
+2025-02-09 14:38:01,296 - INFO - Succesfully fetched data for /works/OL660968W
+2025-02-09 14:38:02,295 - INFO - Succesfully fetched data for /works/OL2619028W
+2025-02-09 14:38:03,308 - INFO - Succesfully fetched data for /works/OL8033635W
+2025-02-09 14:38:04,323 - INFO - Succesfully fetched data for /works/OL24819563W
+2025-02-09 14:38:05,368 - INFO - Succesfully fetched data for /works/OL9203583W
+2025-02-09 14:38:06,350 - INFO - Succesfully fetched data for /works/OL3015356W
+2025-02-09 14:38:07,411 - INFO - Succesfully fetched data for /works/OL30884170W
+2025-02-09 14:38:08,425 - INFO - Succesfully fetched data for /works/OL33961140W
+2025-02-09 14:38:09,507 - INFO - Succesfully fetched data for /works/OL8277443W
+2025-02-09 14:38:10,014 - INFO - Extraction has finished
+2025-02-09 14:38:10,015 - INFO - Transforming data
+2025-02-09 14:38:10,015 - INFO - Data successfully transformed
+2025-02-09 14:38:10,093 - INFO - Loading data
+2025-02-09 14:38:10,121 - INFO - Data succesfully loaded.
+2025-02-09 14:41:27,633 - INFO - ETL pipeline started.
+2025-02-09 14:41:27,633 - INFO - Extraction has started
+2025-02-09 14:41:28,381 - INFO - Succesful API request
+2025-02-09 14:41:28,957 - INFO - Succesfully fetched data for /works/OL5353859W
+2025-02-09 14:41:30,176 - INFO - Succesfully fetched data for /works/OL660968W
+2025-02-09 14:41:31,239 - INFO - Succesfully fetched data for /works/OL2619028W
+2025-02-09 14:41:32,304 - INFO - Succesfully fetched data for /works/OL8033635W
+2025-02-09 14:41:33,352 - INFO - Succesfully fetched data for /works/OL24819563W
+2025-02-09 14:41:34,363 - INFO - Succesfully fetched data for /works/OL9203583W
+2025-02-09 14:41:35,358 - INFO - Succesfully fetched data for /works/OL3015356W
+2025-02-09 14:41:36,505 - INFO - Succesfully fetched data for /works/OL30884170W
+2025-02-09 14:41:37,589 - INFO - Succesfully fetched data for /works/OL33961140W
+2025-02-09 14:41:38,652 - INFO - Succesfully fetched data for /works/OL8277443W
+2025-02-09 14:41:39,152 - INFO - Extraction has finished
+2025-02-09 14:41:39,152 - INFO - Transforming data
+2025-02-09 14:41:39,165 - INFO - Data successfully transformed
+2025-02-09 14:41:39,250 - INFO - Loading data
+2025-02-09 14:41:39,270 - INFO - Data succesfully loaded.
+2025-02-09 20:42:59,911 - INFO - ETL pipeline started.
+2025-02-09 20:42:59,912 - INFO - Extraction has started
+2025-02-09 20:43:00,626 - INFO - Succesful API request
+2025-02-09 20:43:01,199 - INFO - Succesfully fetched data for /works/OL5353859W
+2025-02-09 20:43:02,285 - INFO - Succesfully fetched data for /works/OL660968W
+2025-02-09 20:43:03,492 - INFO - Succesfully fetched data for /works/OL2619028W
+2025-02-09 20:43:05,509 - INFO - Succesfully fetched data for /works/OL8033635W
+2025-02-09 20:43:06,538 - INFO - Succesfully fetched data for /works/OL24819563W
+2025-02-09 20:43:07,575 - INFO - Succesfully fetched data for /works/OL9203583W
+2025-02-09 20:43:08,674 - INFO - Succesfully fetched data for /works/OL3015356W
+2025-02-09 20:43:09,973 - INFO - Succesfully fetched data for /works/OL30884170W
+2025-02-09 20:43:11,006 - INFO - Succesfully fetched data for /works/OL33961140W
+2025-02-09 20:43:12,064 - INFO - Succesfully fetched data for /works/OL8277443W
+2025-02-09 20:43:12,824 - INFO - Extraction has finished
+2025-02-09 20:43:12,826 - INFO - Transforming data
+2025-02-09 20:43:12,826 - INFO - Data successfully transformed
+2025-02-09 20:43:12,992 - INFO - Loading data
+2025-02-09 20:43:13,044 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedTable) relation "books" does not exist
+LINE 2:                        INSERT INTO books (key, title, author...
+                                           ^
+
+[SQL: 
+                       INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (key) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 20:43:52,697 - INFO - ETL pipeline started.
+2025-02-09 20:43:52,698 - INFO - Extraction has started
+2025-02-09 20:43:53,230 - INFO - Succesful API request
+2025-02-09 20:43:53,859 - INFO - Succesfully fetched data for /works/OL5353859W
+2025-02-09 20:43:54,898 - INFO - Succesfully fetched data for /works/OL660968W
+2025-02-09 20:43:55,938 - INFO - Succesfully fetched data for /works/OL2619028W
+2025-02-09 20:43:56,996 - INFO - Succesfully fetched data for /works/OL8033635W
+2025-02-09 20:43:58,053 - INFO - Succesfully fetched data for /works/OL24819563W
+2025-02-09 20:43:59,070 - INFO - Succesfully fetched data for /works/OL9203583W
+2025-02-09 20:44:00,181 - INFO - Succesfully fetched data for /works/OL3015356W
+2025-02-09 20:44:01,223 - INFO - Succesfully fetched data for /works/OL30884170W
+2025-02-09 20:44:02,293 - INFO - Succesfully fetched data for /works/OL33961140W
+2025-02-09 20:44:03,389 - INFO - Succesfully fetched data for /works/OL8277443W
+2025-02-09 20:44:03,930 - INFO - Extraction has finished
+2025-02-09 20:44:03,931 - INFO - Transforming data
+2025-02-09 20:44:03,932 - INFO - Data successfully transformed
+2025-02-09 20:44:04,007 - INFO - Loading data
+2025-02-09 20:44:04,074 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" of relation "books" does not exist
+LINE 2:                        INSERT INTO books (key, title, author...
+                                                  ^
+
+[SQL: 
+                       INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (key) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 20:47:10,843 - INFO - ETL pipeline started.
+2025-02-09 20:47:10,843 - INFO - Extraction has started
+2025-02-09 20:47:11,670 - INFO - Succesful API request
+2025-02-09 20:47:12,191 - INFO - Succesfully fetched data for /works/OL54147W
+2025-02-09 20:47:13,292 - INFO - Succesfully fetched data for /works/OL53919W
+2025-02-09 20:47:14,695 - INFO - Succesfully fetched data for /works/OL53908W
+2025-02-09 20:47:15,778 - INFO - Succesfully fetched data for /works/OL16025215W
+2025-02-09 20:47:16,878 - INFO - Succesfully fetched data for /works/OL54031W
+2025-02-09 20:47:17,969 - INFO - Succesfully fetched data for /works/OL7574091W
+2025-02-09 20:47:19,017 - INFO - Succesfully fetched data for /works/OL81632W
+2025-02-09 20:47:21,168 - INFO - Succesfully fetched data for /works/OL52151W
+2025-02-09 20:47:22,242 - INFO - Succesfully fetched data for /works/OL244537W
+2025-02-09 20:47:23,337 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-09 20:47:24,101 - INFO - Extraction has finished
+2025-02-09 20:47:24,101 - INFO - Transforming data
+2025-02-09 20:47:24,114 - INFO - Data successfully transformed
+2025-02-09 20:47:24,290 - INFO - Loading data
+2025-02-09 20:47:24,356 - INFO - Data successfully loaded
+2025-02-09 20:53:48,245 - INFO - ETL pipeline started.
+2025-02-09 20:53:48,245 - INFO - Extraction has started
+2025-02-09 20:53:48,878 - INFO - Succesful API request
+2025-02-09 20:53:48,879 - INFO - Extraction has finished
+2025-02-09 20:53:48,879 - INFO - Transforming data
+2025-02-09 20:53:48,879 - INFO - Data successfully transformed
+2025-02-09 20:53:48,960 - INFO - Loading data
+2025-02-09 20:53:48,960 - ERROR - The DataFrame does not contain a 'key' column. Cannet set as primary key
+2025-02-09 20:53:49,013 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" does not exist
+LINE 3:                        SELECT key, title, author, first_publ...
+                                      ^
+DETAIL:  There is a column named "key" in table "books", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                       INSERT INTO books (key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT key, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (key) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 20:58:08,839 - INFO - ETL pipeline started.
+2025-02-09 20:58:08,839 - INFO - Extraction has started
+2025-02-09 20:58:09,407 - INFO - Succesful API request
+2025-02-09 20:58:09,408 - INFO - Extraction has finished
+2025-02-09 20:58:09,408 - INFO - Transforming data
+2025-02-09 20:58:09,408 - INFO - Data successfully transformed
+2025-02-09 20:58:09,486 - INFO - Loading data
+2025-02-09 20:58:09,487 - ERROR - The DataFrame does not contain a 'key' column. Cannet set as primary key
+2025-02-09 20:58:09,537 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "key" does not exist
+LINE 3:                        SELECT "key", title, author, first_pu...
+                                      ^
+DETAIL:  There is a column named "key" in table "books", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                       INSERT INTO books ("key", title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT "key", title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT ("key") DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:02:28,828 - INFO - ETL pipeline started.
+2025-02-09 21:02:28,829 - INFO - Extraction has started
+2025-02-09 21:02:29,424 - INFO - Succesful API request
+2025-02-09 21:02:29,424 - INFO - Extraction has finished
+2025-02-09 21:02:29,425 - INFO - Transforming data
+2025-02-09 21:02:29,425 - INFO - Data successfully transformed
+2025-02-09 21:02:29,505 - INFO - Loading data
+2025-02-09 21:02:29,505 - ERROR - The DataFrame does not contain a 'book_id' column. Cannet set as primary key
+2025-02-09 21:02:29,558 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "book_id" of relation "books" does not exist
+LINE 2:                        INSERT INTO books (book_id, title, au...
+                                                  ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:02:57,338 - INFO - ETL pipeline started.
+2025-02-09 21:02:57,338 - INFO - Extraction has started
+2025-02-09 21:02:58,264 - INFO - Succesful API request
+2025-02-09 21:02:58,264 - INFO - Extraction has finished
+2025-02-09 21:02:58,266 - INFO - Transforming data
+2025-02-09 21:02:58,266 - INFO - Data successfully transformed
+2025-02-09 21:02:58,344 - INFO - Loading data
+2025-02-09 21:02:58,345 - ERROR - The DataFrame does not contain a 'book_id' column. Cannet set as primary key
+2025-02-09 21:02:58,407 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "book_id" does not exist
+LINE 3:                        SELECT book_id, title, author, first_...
+                                      ^
+DETAIL:  There is a column named "book_id" in table "books", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:07:52,200 - INFO - ETL pipeline started.
+2025-02-09 21:07:52,200 - INFO - Extraction has started
+2025-02-09 21:07:53,730 - INFO - Succesful API request
+2025-02-09 21:07:53,730 - INFO - Extraction has finished
+2025-02-09 21:07:53,731 - INFO - Transforming data
+2025-02-09 21:07:53,731 - INFO - Data successfully transformed
+2025-02-09 21:07:53,810 - INFO - Loading data
+2025-02-09 21:07:53,810 - ERROR - The DataFrame does not contain a 'book_id' column. Cannet set as primary key
+2025-02-09 21:07:53,873 - ERROR - Error occurred during loading precess: (psycopg2.errors.UndefinedColumn) column "book_id" does not exist
+LINE 3:                        SELECT book_id, title, author, first_...
+                                      ^
+DETAIL:  There is a column named "book_id" in table "books", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:15:12,394 - INFO - ETL pipeline started.
+2025-02-09 21:15:12,394 - INFO - Extraction has started
+2025-02-09 21:15:13,121 - INFO - Succesful API request
+2025-02-09 21:15:13,123 - INFO - Extraction has finished
+2025-02-09 21:15:13,123 - INFO - Transforming data
+2025-02-09 21:15:13,123 - INFO - Data successfully transformed
+2025-02-09 21:17:27,056 - INFO - ETL pipeline started.
+2025-02-09 21:17:27,056 - INFO - Extraction has started
+2025-02-09 21:17:27,620 - INFO - Succesful API request
+2025-02-09 21:17:27,621 - INFO - Extraction has finished
+2025-02-09 21:17:27,622 - INFO - Transforming data
+2025-02-09 21:17:27,622 - INFO - Data successfully transformed
+2025-02-09 21:22:33,372 - INFO - ETL pipeline started.
+2025-02-09 21:22:33,372 - INFO - Extraction has started
+2025-02-09 21:22:33,948 - INFO - Succesful API request
+2025-02-09 21:22:33,948 - INFO - Extraction has finished
+2025-02-09 21:22:33,949 - INFO - Transforming data
+2025-02-09 21:22:33,949 - INFO - Data successfully transformed
+2025-02-09 21:23:52,529 - INFO - ETL pipeline started.
+2025-02-09 21:23:52,529 - INFO - Extraction has started
+2025-02-09 21:23:54,847 - INFO - Succesful API request
+2025-02-09 21:23:55,382 - INFO - Succesfully fetched data for /works/OL54147W
+2025-02-09 21:23:56,899 - INFO - Succesfully fetched data for /works/OL53919W
+2025-02-09 21:23:57,996 - INFO - Succesfully fetched data for /works/OL53908W
+2025-02-09 21:23:59,069 - INFO - Succesfully fetched data for /works/OL16025215W
+2025-02-09 21:24:00,087 - INFO - Succesfully fetched data for /works/OL54031W
+2025-02-09 21:24:01,867 - INFO - Succesfully fetched data for /works/OL7574091W
+2025-02-09 21:24:03,933 - INFO - Succesfully fetched data for /works/OL81632W
+2025-02-09 21:24:04,970 - INFO - Succesfully fetched data for /works/OL52151W
+2025-02-09 21:24:06,028 - INFO - Succesfully fetched data for /works/OL244537W
+2025-02-09 21:24:07,112 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-09 21:24:07,650 - INFO - Extraction has finished
+2025-02-09 21:24:07,659 - INFO - Transforming data
+2025-02-09 21:24:07,661 - INFO - Data successfully transformed
+2025-02-09 21:24:46,019 - INFO - ETL pipeline started.
+2025-02-09 21:24:46,019 - INFO - Extraction has started
+2025-02-09 21:24:46,569 - INFO - Succesful API request
+2025-02-09 21:24:46,569 - INFO - Extraction has finished
+2025-02-09 21:24:46,569 - INFO - Transforming data
+2025-02-09 21:24:46,571 - INFO - Data successfully transformed
+2025-02-09 21:24:54,783 - INFO - ETL pipeline started.
+2025-02-09 21:24:54,783 - INFO - Extraction has started
+2025-02-09 21:24:55,405 - INFO - Succesful API request
+2025-02-09 21:24:56,082 - INFO - Succesfully fetched data for /works/OL6413970W
+2025-02-09 21:24:57,167 - INFO - Succesfully fetched data for /works/OL33421963W
+2025-02-09 21:24:58,214 - INFO - Succesfully fetched data for /works/OL37527335W
+2025-02-09 21:24:59,367 - INFO - Succesfully fetched data for /works/OL24023466W
+2025-02-09 21:25:00,403 - INFO - Succesfully fetched data for /works/OL2130608W
+2025-02-09 21:25:01,469 - INFO - Succesfully fetched data for /works/OL6059300W
+2025-02-09 21:25:02,576 - INFO - Succesfully fetched data for /works/OL42426629W
+2025-02-09 21:25:03,146 - INFO - Extraction has finished
+2025-02-09 21:25:03,147 - INFO - Transforming data
+2025-02-09 21:25:03,147 - INFO - Data successfully transformed
+2025-02-09 21:27:00,407 - INFO - ETL pipeline started.
+2025-02-09 21:27:00,407 - INFO - Extraction has started
+2025-02-09 21:27:00,983 - INFO - Succesful API request
+2025-02-09 21:27:01,502 - INFO - Succesfully fetched data for /works/OL6413970W
+2025-02-09 21:27:02,540 - INFO - Succesfully fetched data for /works/OL33421963W
+2025-02-09 21:27:03,833 - INFO - Succesfully fetched data for /works/OL37527335W
+2025-02-09 21:27:04,891 - INFO - Succesfully fetched data for /works/OL24023466W
+2025-02-09 21:27:05,980 - INFO - Succesfully fetched data for /works/OL2130608W
+2025-02-09 21:27:07,089 - INFO - Succesfully fetched data for /works/OL6059300W
+2025-02-09 21:27:08,132 - INFO - Succesfully fetched data for /works/OL42426629W
+2025-02-09 21:27:08,655 - INFO - Extraction has finished
+2025-02-09 21:27:08,656 - INFO - Transforming data
+2025-02-09 21:27:08,656 - INFO - Data successfully transformed
+2025-02-09 21:27:08,732 - INFO - Loading data
+2025-02-09 21:27:08,756 - ERROR - Error occurred during loading precess: Index(['key'], dtype='object')
+2025-02-09 21:28:15,469 - INFO - ETL pipeline started.
+2025-02-09 21:28:15,470 - INFO - Extraction has started
+2025-02-09 21:28:16,639 - INFO - Succesful API request
+2025-02-09 21:28:17,174 - INFO - Succesfully fetched data for /works/OL54147W
+2025-02-09 21:28:18,239 - INFO - Succesfully fetched data for /works/OL53919W
+2025-02-09 21:28:19,304 - INFO - Succesfully fetched data for /works/OL53908W
+2025-02-09 21:28:20,513 - INFO - Succesfully fetched data for /works/OL16025215W
+2025-02-09 21:28:21,586 - INFO - Succesfully fetched data for /works/OL54031W
+2025-02-09 21:28:22,722 - INFO - Succesfully fetched data for /works/OL7574091W
+2025-02-09 21:28:23,727 - INFO - Succesfully fetched data for /works/OL81632W
+2025-02-09 21:28:24,734 - INFO - Succesfully fetched data for /works/OL52151W
+2025-02-09 21:28:26,224 - INFO - Succesfully fetched data for /works/OL244537W
+2025-02-09 21:28:27,305 - INFO - Succesfully fetched data for /works/OL53959W
+2025-02-09 21:28:27,910 - INFO - Extraction has finished
+2025-02-09 21:28:27,910 - INFO - Transforming data
+2025-02-09 21:28:27,912 - INFO - Data successfully transformed
+2025-02-09 21:28:27,993 - INFO - Loading data
+2025-02-09 21:28:28,070 - INFO - Data successfully loaded
+2025-02-09 21:29:12,647 - INFO - ETL pipeline started.
+2025-02-09 21:29:12,648 - INFO - Extraction has started
+2025-02-09 21:29:13,409 - INFO - Succesful API request
+2025-02-09 21:29:13,920 - INFO - Succesfully fetched data for /works/OL272388W
+2025-02-09 21:29:15,339 - INFO - Succesfully fetched data for /works/OL258329W
+2025-02-09 21:29:16,449 - INFO - Succesfully fetched data for /works/OL272391W
+2025-02-09 21:29:17,521 - INFO - Succesfully fetched data for /works/OL258366W
+2025-02-09 21:29:18,580 - INFO - Succesfully fetched data for /works/OL5608181W
+2025-02-09 21:29:19,873 - INFO - Succesfully fetched data for /works/OL6954622W
+2025-02-09 21:29:20,930 - INFO - Succesfully fetched data for /works/OL10056012W
+2025-02-09 21:29:22,420 - INFO - Succesfully fetched data for /works/OL4961774W
+2025-02-09 21:29:23,452 - INFO - Succesfully fetched data for /works/OL1702153W
+2025-02-09 21:29:24,561 - INFO - Succesfully fetched data for /works/OL959408W
+2025-02-09 21:29:25,099 - INFO - Extraction has finished
+2025-02-09 21:29:25,101 - INFO - Transforming data
+2025-02-09 21:29:25,140 - INFO - Data successfully transformed
+2025-02-09 21:29:25,317 - INFO - Loading data
+2025-02-09 21:29:25,374 - INFO - Data successfully loaded
+2025-02-09 21:35:57,093 - INFO - ETL pipeline started.
+2025-02-09 21:35:57,093 - INFO - Extraction has started
+2025-02-09 21:35:58,812 - INFO - Succesful API request
+2025-02-09 21:35:59,357 - INFO - Succesfully fetched data for /works/OL8721462W
+2025-02-09 21:36:00,394 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:36:01,432 - INFO - Succesfully fetched data for /works/OL8193497W
+2025-02-09 21:36:02,478 - INFO - Succesfully fetched data for /works/OL14868510W
+2025-02-09 21:36:03,604 - INFO - Succesfully fetched data for /works/OL13162727W
+2025-02-09 21:36:04,634 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-09 21:36:05,790 - INFO - Succesfully fetched data for /works/OL8193465W
+2025-02-09 21:36:07,067 - INFO - Succesfully fetched data for /works/OL8193387W
+2025-02-09 21:36:08,331 - INFO - Succesfully fetched data for /works/OL8662242W
+2025-02-09 21:36:09,437 - INFO - Succesfully fetched data for /works/OL8300173W
+2025-02-09 21:36:09,948 - INFO - Extraction has finished
+2025-02-09 21:36:09,949 - INFO - Transforming data
+2025-02-09 21:36:09,951 - INFO - Data successfully transformed
+2025-02-09 21:36:10,023 - INFO - Loading data
+2025-02-09 21:36:10,097 - INFO - Data successfully loaded
+2025-02-09 21:41:07,346 - INFO - ETL pipeline started.
+2025-02-09 21:41:07,346 - INFO - Extraction has started
+2025-02-09 21:41:08,623 - INFO - Succesful API request
+2025-02-09 21:41:09,113 - INFO - Succesfully fetched data for /works/OL66614W
+2025-02-09 21:41:10,113 - INFO - Succesfully fetched data for /works/OL66544W
+2025-02-09 21:41:11,220 - INFO - Succesfully fetched data for /works/OL66513W
+2025-02-09 21:41:12,263 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-09 21:41:13,327 - INFO - Succesfully fetched data for /works/OL66562W
+2025-02-09 21:41:14,586 - INFO - Succesfully fetched data for /works/OL66534W
+2025-02-09 21:41:15,619 - INFO - Succesfully fetched data for /works/OL15079937W
+2025-02-09 21:41:16,617 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-09 21:41:17,650 - INFO - Succesfully fetched data for /works/OL1146502W
+2025-02-09 21:41:19,187 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-09 21:41:19,746 - INFO - Extraction has finished
+2025-02-09 21:41:19,747 - INFO - Transforming data
+2025-02-09 21:41:19,748 - INFO - Data successfully transformed
+2025-02-09 21:41:19,821 - INFO - Loading data
+2025-02-09 21:41:19,918 - INFO - Data successfully loaded
+2025-02-09 21:42:56,335 - INFO - ETL pipeline started.
+2025-02-09 21:42:56,336 - INFO - Extraction has started
+2025-02-09 21:42:57,521 - INFO - Succesful API request
+2025-02-09 21:42:58,040 - INFO - Succesfully fetched data for /works/OL66614W
+2025-02-09 21:42:59,056 - INFO - Succesfully fetched data for /works/OL66544W
+2025-02-09 21:43:00,120 - INFO - Succesfully fetched data for /works/OL66513W
+2025-02-09 21:43:01,191 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-09 21:43:02,639 - INFO - Succesfully fetched data for /works/OL66562W
+2025-02-09 21:43:03,698 - INFO - Succesfully fetched data for /works/OL66534W
+2025-02-09 21:43:04,717 - INFO - Succesfully fetched data for /works/OL15079937W
+2025-02-09 21:43:05,810 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-09 21:43:06,927 - INFO - Succesfully fetched data for /works/OL1146502W
+2025-02-09 21:43:07,953 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-09 21:43:08,492 - INFO - Extraction has finished
+2025-02-09 21:43:08,494 - INFO - Transforming data
+2025-02-09 21:43:08,495 - INFO - Data successfully transformed
+2025-02-09 21:43:08,567 - INFO - Loading data
+2025-02-09 21:43:08,784 - INFO - Data successfully loaded
+2025-02-09 21:43:40,836 - INFO - ETL pipeline started.
+2025-02-09 21:43:40,837 - INFO - Extraction has started
+2025-02-09 21:43:41,596 - INFO - Succesful API request
+2025-02-09 21:43:42,112 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:43:43,186 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:43:44,274 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:43:45,541 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:43:46,688 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:43:47,755 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:43:48,843 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:43:49,931 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:43:51,070 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:43:52,193 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:43:52,719 - INFO - Extraction has finished
+2025-02-09 21:43:52,721 - INFO - Transforming data
+2025-02-09 21:43:52,721 - INFO - Data successfully transformed
+2025-02-09 21:43:52,811 - INFO - Loading data
+2025-02-09 21:43:52,904 - ERROR - Error occurred during loading precess: (psycopg2.errors.DatatypeMismatch) column "first_publish_year" is of type bigint but expression is of type text
+LINE 3: ...                   SELECT book_id, title, author, first_publ...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:47:57,348 - INFO - ETL pipeline started.
+2025-02-09 21:47:57,349 - INFO - Extraction has started
+2025-02-09 21:47:58,329 - INFO - Succesful API request
+2025-02-09 21:47:58,960 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:47:59,998 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:48:01,153 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:48:02,362 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:48:03,706 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:48:04,959 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:48:06,024 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:48:07,071 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:48:08,077 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:48:09,607 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:48:10,124 - INFO - Extraction has finished
+2025-02-09 21:48:10,125 - INFO - Transforming data
+2025-02-09 21:48:10,125 - INFO - Data successfully transformed
+2025-02-09 21:48:10,204 - INFO - Loading data
+2025-02-09 21:48:10,422 - ERROR - Error occurred during loading precess: (psycopg2.errors.DatatypeMismatch) column "first_publish_year" is of type bigint but expression is of type text
+LINE 3: ...                   SELECT book_id, title, author, first_publ...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:50:29,350 - INFO - ETL pipeline started.
+2025-02-09 21:50:29,351 - INFO - Extraction has started
+2025-02-09 21:50:30,150 - INFO - Succesful API request
+2025-02-09 21:50:30,649 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:50:31,753 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:50:32,786 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:50:33,822 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:50:34,830 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:50:35,901 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:50:37,114 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:50:38,149 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:50:39,181 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:50:40,242 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:50:40,765 - INFO - Extraction has finished
+2025-02-09 21:50:40,767 - INFO - Transforming data
+2025-02-09 21:50:40,767 - INFO - Data successfully transformed
+2025-02-09 21:50:40,841 - INFO - Loading data
+2025-02-09 21:50:40,935 - ERROR - Error occurred during loading precess: (psycopg2.errors.DatatypeMismatch) column "first_publish_year" is of type bigint but expression is of type text
+LINE 3: ...                   SELECT book_id, title, author, first_publ...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression.
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:55:17,158 - INFO - ETL pipeline started.
+2025-02-09 21:55:17,159 - INFO - Extraction has started
+2025-02-09 21:55:18,402 - INFO - Succesful API request
+2025-02-09 21:55:18,887 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:55:19,958 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:55:20,981 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:55:22,018 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:55:23,056 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:55:24,178 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:55:25,658 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:55:26,645 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:55:27,664 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:55:28,768 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:55:29,370 - INFO - Extraction has finished
+2025-02-09 21:55:29,370 - INFO - Transforming data
+2025-02-09 21:55:29,370 - INFO - Data successfully transformed
+2025-02-09 21:55:29,450 - INFO - Loading data
+2025-02-09 21:55:29,561 - ERROR - Error occurred during loading precess: (psycopg2.errors.SyntaxError) syntax error at or near ","
+LINE 5: ...sh_year IS NULL OR first_publish_year = 'Unknown' THEN NULL,
+                                                                      ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL,
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:55:53,109 - INFO - ETL pipeline started.
+2025-02-09 21:55:53,110 - INFO - Extraction has started
+2025-02-09 21:55:53,879 - INFO - Succesful API request
+2025-02-09 21:55:54,435 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:55:55,434 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:55:56,446 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:55:57,653 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:55:58,720 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:55:59,758 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:56:00,748 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:56:01,808 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:56:02,894 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:56:03,897 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:56:04,580 - INFO - Extraction has finished
+2025-02-09 21:56:04,580 - INFO - Transforming data
+2025-02-09 21:56:04,581 - INFO - Data successfully transformed
+2025-02-09 21:56:04,654 - INFO - Loading data
+2025-02-09 21:56:04,758 - ERROR - Error occurred during loading precess: (psycopg2.errors.SyntaxError) syntax error at or near ","
+LINE 5: ...sh_year IS NULL OR first_publish_year = 'Unknown' THEN NULL,
+                                                                      ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL,
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-02-09 21:56:24,010 - INFO - ETL pipeline started.
+2025-02-09 21:56:24,011 - INFO - Extraction has started
+2025-02-09 21:56:24,802 - INFO - Succesful API request
+2025-02-09 21:56:25,896 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-09 21:56:26,957 - INFO - Succesfully fetched data for /works/OL15395994W
+2025-02-09 21:56:28,009 - INFO - Succesfully fetched data for /works/OL14869368W
+2025-02-09 21:56:29,074 - INFO - Succesfully fetched data for /works/OL4317994W
+2025-02-09 21:56:30,180 - INFO - Succesfully fetched data for /works/OL17735865W
+2025-02-09 21:56:31,227 - INFO - Succesfully fetched data for /works/OL9337148W
+2025-02-09 21:56:32,256 - INFO - Succesfully fetched data for /works/OL7266048W
+2025-02-09 21:56:33,256 - INFO - Succesfully fetched data for /works/OL14869425W
+2025-02-09 21:56:34,292 - INFO - Succesfully fetched data for /works/OL35814943W
+2025-02-09 21:56:35,369 - INFO - Succesfully fetched data for /works/OL9705481W
+2025-02-09 21:56:35,889 - INFO - Extraction has finished
+2025-02-09 21:56:35,891 - INFO - Transforming data
+2025-02-09 21:56:35,891 - INFO - Data successfully transformed
+2025-02-09 21:56:35,969 - INFO - Loading data
+2025-02-09 21:56:36,176 - INFO - Data successfully loaded
+2025-02-10 14:01:10,332 - INFO - ETL pipeline started.
+2025-02-10 14:01:10,334 - INFO - Extraction has started
+2025-02-10 14:01:11,228 - INFO - Succesful API request
+2025-02-10 14:01:11,712 - INFO - Succesfully fetched data for /works/OL8193478W
+2025-02-10 14:12:03,444 - INFO - ETL pipeline started.
+2025-02-10 14:12:03,444 - INFO - Extraction has started
+2025-02-10 14:12:04,417 - INFO - Succesful API request
+2025-02-10 14:12:04,941 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:12:05,988 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:12:07,071 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:12:08,155 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:12:09,243 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:12:10,746 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:12:11,869 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:12:12,969 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:12:14,245 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:12:15,328 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:12:15,841 - INFO - Extraction has finished
+2025-02-10 14:12:15,841 - INFO - Transforming data
+2025-02-10 14:12:15,843 - INFO - Data successfully transformed
+2025-02-10 14:12:16,015 - INFO - Loading data
+2025-02-10 14:12:16,150 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:13:54,027 - INFO - ETL pipeline started.
+2025-02-10 14:13:54,027 - INFO - Extraction has started
+2025-02-10 14:13:54,837 - INFO - Succesful API request
+2025-02-10 14:13:55,335 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:13:57,339 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:13:58,371 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:13:59,355 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:14:00,381 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:14:01,417 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:14:02,528 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:14:03,527 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:14:04,565 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:14:05,583 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:14:06,102 - INFO - Extraction has finished
+2025-02-10 14:14:06,104 - INFO - Transforming data
+2025-02-10 14:14:06,105 - INFO - Data successfully transformed
+2025-02-10 14:14:06,187 - INFO - Loading data
+2025-02-10 14:14:06,291 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:15:32,350 - INFO - ETL pipeline started.
+2025-02-10 14:15:32,351 - INFO - Extraction has started
+2025-02-10 14:15:33,642 - INFO - Succesful API request
+2025-02-10 14:15:34,135 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:15:35,148 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:15:36,174 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:15:37,215 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:15:38,246 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:15:39,299 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:15:40,310 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:15:41,347 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:15:42,404 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:15:43,431 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:15:44,225 - INFO - Extraction has finished
+2025-02-10 14:15:44,226 - INFO - Transforming data
+2025-02-10 14:15:44,227 - INFO - Data successfully transformed
+2025-02-10 14:15:44,308 - INFO - Loading data
+2025-02-10 14:15:44,423 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:17:09,641 - INFO - ETL pipeline started.
+2025-02-10 14:17:09,641 - INFO - Extraction has started
+2025-02-10 14:17:10,685 - INFO - Succesful API request
+2025-02-10 14:17:11,178 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:17:12,211 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:17:13,295 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:17:14,644 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:17:15,859 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:17:17,301 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:17:18,912 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:17:20,710 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:17:22,763 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:17:24,986 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:17:26,058 - INFO - Extraction has finished
+2025-02-10 14:17:26,059 - INFO - Transforming data
+2025-02-10 14:17:26,060 - INFO - Data successfully transformed
+2025-02-10 14:17:26,165 - INFO - Loading data
+2025-02-10 14:17:26,272 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:19:16,839 - INFO - ETL pipeline started.
+2025-02-10 14:19:16,840 - INFO - Extraction has started
+2025-02-10 14:19:17,683 - INFO - Succesful API request
+2025-02-10 14:19:18,185 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:19:19,457 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:19:20,533 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:19:21,557 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:19:22,595 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:19:23,663 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:19:24,697 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:19:25,775 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:19:26,819 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:19:27,933 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:19:28,437 - INFO - Extraction has finished
+2025-02-10 14:19:28,438 - INFO - Transforming data
+2025-02-10 14:19:28,439 - INFO - Data successfully transformed
+2025-02-10 14:19:28,514 - INFO - Loading data
+2025-02-10 14:19:28,610 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "None"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'None' THE...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'None' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:25:22,528 - INFO - ETL pipeline started.
+2025-02-10 14:25:22,529 - INFO - Extraction has started
+2025-02-10 14:25:23,715 - INFO - Succesful API request
+2025-02-10 14:25:24,226 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:25:25,239 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:25:26,345 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:25:27,413 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:25:28,419 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:25:29,429 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:25:30,441 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:25:31,457 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:25:32,525 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:25:33,573 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:25:34,107 - INFO - Extraction has finished
+2025-02-10 14:25:34,107 - INFO - Transforming data
+2025-02-10 14:25:34,109 - INFO - Data successfully transformed
+2025-02-10 14:25:34,298 - INFO - Loading data
+2025-02-10 14:25:34,401 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:34:30,055 - INFO - ETL pipeline started.
+2025-02-10 14:34:30,057 - INFO - Extraction has started
+2025-02-10 14:34:31,137 - INFO - Succesful API request
+2025-02-10 14:34:31,640 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:34:32,735 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:34:33,805 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:34:35,060 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:34:36,092 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:34:37,095 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:34:38,102 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:34:39,108 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:34:40,175 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:34:41,221 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:34:41,736 - INFO - Extraction has finished
+2025-02-10 14:34:41,736 - INFO - Transforming data
+2025-02-10 14:34:41,737 - INFO - Data successfully transformed
+2025-02-10 14:34:41,815 - INFO - Loading data
+2025-02-10 14:34:41,922 - ERROR - Error occurred during loading precess: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type bigint: "Unknown"
+LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
+                                                             ^
+
+[SQL: 
+                       INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
+                       SELECT book_id, title, author,
+                            CASE
+                                WHEN first_publish_year IS NULL OR first_publish_year = 'Unknown' THEN NULL
+                                ELSE CAST(first_publish_year AS BIGINT)
+                            END as first_publish_year,
+                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
+                       ON CONFLICT (book_id) DO UPDATE SET
+                            title = EXCLUDED.title,
+                            author = EXCLUDED.author,
+                            first_publish_year = EXCLUDED.first_publish_year,
+                            description = EXCLUDED.description,
+                            subjects = EXCLUDED.subjects,
+                            cover_url = EXCLUDED.cover_url,
+                            avg_rating = EXCLUDED.avg_rating,
+                            num_reviews = EXCLUDED.num_reviews;
+            ]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-02-10 14:44:36,087 - INFO - ETL pipeline started.
+2025-02-10 14:44:36,088 - INFO - Extraction has started
+2025-02-10 14:44:37,086 - INFO - Succesful API request
+2025-02-10 14:44:37,570 - INFO - Succesfully fetched data for /works/OL5736965W
+2025-02-10 14:44:38,581 - INFO - Succesfully fetched data for /works/OL1095427W
+2025-02-10 14:44:39,708 - INFO - Succesfully fetched data for /works/OL69630W
+2025-02-10 14:44:40,708 - INFO - Succesfully fetched data for /works/OL8763776W
+2025-02-10 14:44:41,765 - INFO - Succesfully fetched data for /works/OL15314568W
+2025-02-10 14:44:43,334 - INFO - Succesfully fetched data for /works/OL52260W
+2025-02-10 14:44:44,742 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 14:44:46,051 - INFO - Succesfully fetched data for /works/OL45361W
+2025-02-10 14:44:47,077 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-10 14:44:48,151 - INFO - Succesfully fetched data for /works/OL14903581W
+2025-02-10 14:44:48,799 - INFO - Extraction has finished
+2025-02-10 14:44:48,800 - INFO - Transforming data
+2025-02-10 14:44:48,801 - INFO - Data successfully transformed
+2025-02-10 14:44:48,877 - INFO - Loading data
+2025-02-10 14:44:48,984 - INFO - Data successfully loaded
+2025-02-10 14:51:00,948 - INFO - ETL pipeline started.
+2025-02-10 14:51:00,948 - INFO - Extraction has started
+2025-02-10 14:51:02,830 - INFO - Succesful API request
+2025-02-10 14:51:03,361 - INFO - Succesfully fetched data for /works/OL16894032W
+2025-02-10 14:51:04,891 - INFO - Succesfully fetched data for /works/OL17761452W
+2025-02-10 14:51:05,941 - INFO - Succesfully fetched data for /works/OL29983W
+2025-02-10 14:51:06,991 - INFO - Succesfully fetched data for /works/OL26668762W
+2025-02-10 14:51:08,033 - INFO - Succesfully fetched data for /works/OL29970W
+2025-02-10 14:51:09,063 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-10 14:51:10,199 - INFO - Succesfully fetched data for /works/OL17846238W
+2025-02-10 14:51:12,008 - INFO - Succesfully fetched data for /works/OL29984W
+2025-02-10 14:51:13,036 - INFO - Succesfully fetched data for /works/OL30065W
+2025-02-10 14:51:14,225 - INFO - Succesfully fetched data for /works/OL30020W
+2025-02-10 14:51:14,874 - INFO - Extraction has finished
+2025-02-10 14:51:14,876 - INFO - Transforming data
+2025-02-10 14:51:14,877 - INFO - Data successfully transformed
+2025-02-10 14:51:14,957 - INFO - Loading data
+2025-02-10 14:51:15,074 - INFO - Data successfully loaded
+2025-02-10 15:01:13,814 - INFO - ETL pipeline started.
+2025-02-10 15:01:13,814 - INFO - Extraction has started
+2025-02-10 15:01:15,229 - INFO - Succesful API request
+2025-02-10 15:01:16,371 - INFO - Succesfully fetched data for /works/OL16894032W
+2025-02-10 15:01:19,123 - INFO - Succesfully fetched data for /works/OL17761452W
+2025-02-10 15:01:21,707 - INFO - Succesfully fetched data for /works/OL29983W
+2025-02-10 15:01:24,023 - INFO - Succesfully fetched data for /works/OL26668762W
+2025-02-10 15:01:26,243 - INFO - Succesfully fetched data for /works/OL29970W
+2025-02-10 15:01:28,061 - INFO - Succesfully fetched data for /works/OL21885963W
+2025-02-10 15:01:29,654 - INFO - Succesfully fetched data for /works/OL17846238W
+2025-02-10 15:01:31,335 - INFO - Succesfully fetched data for /works/OL29984W
+2025-02-10 15:01:33,305 - INFO - Succesfully fetched data for /works/OL30065W
+2025-02-10 15:01:35,333 - INFO - Succesfully fetched data for /works/OL30020W
+2025-02-10 15:01:36,510 - INFO - Extraction has finished
+2025-02-10 15:01:36,512 - INFO - Transforming data
+2025-02-10 15:01:36,514 - INFO - Data successfully transformed
+2025-02-10 15:01:36,605 - INFO - Loading data
+2025-02-10 15:01:36,736 - INFO - Data successfully loaded
+2025-02-10 15:03:13,792 - INFO - ETL pipeline started.
+2025-02-10 15:03:13,793 - INFO - Extraction has started
+2025-02-10 15:03:14,824 - INFO - Succesful API request
+2025-02-10 15:03:15,328 - INFO - Succesfully fetched data for /works/OL468431W
+2025-02-10 15:03:16,374 - INFO - Succesfully fetched data for /works/OL468485W
+2025-02-10 15:03:17,405 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:03:18,471 - INFO - Succesfully fetched data for /works/OL468362W
+2025-02-10 15:03:19,513 - INFO - Succesfully fetched data for /works/OL468488W
+2025-02-10 15:03:20,524 - INFO - Succesfully fetched data for /works/OL34381078W
+2025-02-10 15:03:21,513 - INFO - Succesfully fetched data for /works/OL468384W
+2025-02-10 15:03:22,644 - INFO - Succesfully fetched data for /works/OL37629951W
+2025-02-10 15:03:23,620 - INFO - Succesfully fetched data for /works/OL468479W
+2025-02-10 15:03:24,700 - INFO - Succesfully fetched data for /works/OL31701067W
+2025-02-10 15:03:25,301 - INFO - Extraction has finished
+2025-02-10 15:03:25,302 - INFO - Transforming data
+2025-02-10 15:03:25,304 - INFO - Data successfully transformed
+2025-02-10 15:03:25,482 - INFO - Loading data
+2025-02-10 15:03:25,586 - INFO - Data successfully loaded
+2025-02-10 15:05:50,165 - INFO - ETL pipeline started.
+2025-02-10 15:05:50,165 - INFO - Extraction has started
+2025-02-10 15:05:50,885 - INFO - Succesful API request
+2025-02-10 15:05:51,401 - INFO - Succesfully fetched data for /works/OL468431W
+2025-02-10 15:05:52,423 - INFO - Succesfully fetched data for /works/OL468485W
+2025-02-10 15:05:53,499 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:05:54,567 - INFO - Succesfully fetched data for /works/OL468362W
+2025-02-10 15:05:55,578 - INFO - Succesfully fetched data for /works/OL468488W
+2025-02-10 15:05:56,609 - INFO - Succesfully fetched data for /works/OL34381078W
+2025-02-10 15:05:57,663 - INFO - Succesfully fetched data for /works/OL468384W
+2025-02-10 15:05:58,670 - INFO - Succesfully fetched data for /works/OL37629951W
+2025-02-10 15:05:59,740 - INFO - Succesfully fetched data for /works/OL468479W
+2025-02-10 15:06:01,425 - INFO - Succesfully fetched data for /works/OL31701067W
+2025-02-10 15:06:01,964 - INFO - Extraction has finished
+2025-02-10 15:06:01,964 - INFO - Transforming data
+2025-02-10 15:06:01,965 - INFO - Data successfully transformed
+2025-02-10 15:06:02,043 - INFO - Loading data
+2025-02-10 15:06:02,145 - INFO - Data successfully loaded
+2025-02-10 15:07:44,354 - INFO - ETL pipeline started.
+2025-02-10 15:07:44,355 - INFO - Extraction has started
+2025-02-10 15:07:45,378 - INFO - Succesful API request
+2025-02-10 15:07:45,885 - INFO - Succesfully fetched data for /works/OL3140822W
+2025-02-10 15:07:46,950 - INFO - Succesfully fetched data for /works/OL27079W
+2025-02-10 15:07:47,973 - INFO - Succesfully fetched data for /works/OL45866W
+2025-02-10 15:07:49,018 - INFO - Succesfully fetched data for /works/OL4459213W
+2025-02-10 15:07:50,527 - INFO - Succesfully fetched data for /works/OL17365W
+2025-02-10 15:07:51,588 - INFO - Succesfully fetched data for /works/OL71037W
+2025-02-10 15:07:52,651 - INFO - Succesfully fetched data for /works/OL23205W
+2025-02-10 15:07:53,718 - INFO - Succesfully fetched data for /works/OL298031W
+2025-02-10 15:07:54,789 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:07:55,823 - INFO - Succesfully fetched data for /works/OL10263W
+2025-02-10 15:07:56,576 - INFO - Extraction has finished
+2025-02-10 15:07:56,577 - INFO - Transforming data
+2025-02-10 15:07:56,579 - INFO - Data successfully transformed
+2025-02-10 15:07:56,650 - INFO - Loading data
+2025-02-10 15:07:56,760 - INFO - Data successfully loaded
+2025-02-10 15:10:46,734 - INFO - ETL pipeline started.
+2025-02-10 15:10:46,735 - INFO - Extraction has started
+2025-02-10 15:10:48,276 - INFO - Succesful API request
+2025-02-10 15:10:48,782 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:10:49,808 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:10:50,861 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:10:51,929 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:10:53,010 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:10:54,018 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:10:55,060 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:10:56,109 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:10:57,108 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:10:58,116 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:10:58,651 - INFO - Extraction has finished
+2025-02-10 15:10:58,652 - INFO - Transforming data
+2025-02-10 15:10:58,655 - INFO - Data successfully transformed
+2025-02-10 15:10:58,733 - INFO - Loading data
+2025-02-10 15:10:58,834 - INFO - Data successfully loaded
+2025-02-10 15:13:37,583 - INFO - ETL pipeline started.
+2025-02-10 15:13:37,584 - INFO - Extraction has started
+2025-02-10 15:13:38,868 - INFO - Succesful API request
+2025-02-10 15:13:39,346 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:13:40,389 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:13:41,505 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:13:42,571 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:13:43,974 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:13:45,076 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:13:46,117 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:13:47,159 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:13:48,176 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:13:49,298 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:13:49,863 - INFO - Extraction has finished
+2025-02-10 15:13:49,863 - INFO - Transforming data
+2025-02-10 15:13:49,866 - INFO - Data successfully transformed
+2025-02-10 15:13:49,960 - INFO - Loading data
+2025-02-10 15:13:50,073 - INFO - Data successfully loaded
+2025-02-10 15:17:23,124 - INFO - ETL pipeline started.
+2025-02-10 15:17:23,125 - INFO - Extraction has started
+2025-02-10 15:17:24,454 - INFO - Succesful API request
+2025-02-10 15:17:24,977 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:17:26,044 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:17:27,082 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:17:28,100 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:17:29,123 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:17:30,147 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:17:31,175 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:17:32,216 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:17:33,249 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:17:34,310 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:17:34,849 - INFO - Extraction has finished
+2025-02-10 15:17:34,850 - INFO - Transforming data
+2025-02-10 15:17:34,852 - INFO - Data successfully transformed
+2025-02-10 15:17:34,926 - INFO - Loading data
+2025-02-10 15:17:35,043 - INFO - Data successfully loaded
+2025-02-10 15:20:16,471 - INFO - ETL pipeline started.
+2025-02-10 15:20:16,472 - INFO - Extraction has started
+2025-02-10 15:20:17,860 - INFO - Succesful API request
+2025-02-10 15:20:18,358 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:20:19,416 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:20:20,480 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:20:21,490 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:20:22,524 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:20:23,638 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:20:24,703 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:20:25,789 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:20:26,988 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:20:28,008 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:20:28,543 - INFO - Extraction has finished
+2025-02-10 15:20:28,543 - INFO - Transforming data
+2025-02-10 15:20:28,544 - INFO - Data successfully transformed
+2025-02-10 15:20:28,650 - INFO - Loading data
+2025-02-10 15:20:28,788 - INFO - Data successfully loaded
+2025-02-10 15:24:47,467 - INFO - ETL pipeline started.
+2025-02-10 15:24:47,467 - INFO - Extraction has started
+2025-02-10 15:24:48,910 - INFO - Succesful API request
+2025-02-10 15:24:49,451 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:24:50,456 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:24:51,458 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:24:52,481 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:24:53,507 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:24:54,532 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:24:55,633 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:24:56,624 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:24:57,668 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:24:58,720 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:24:59,234 - INFO - Extraction has finished
+2025-02-10 15:24:59,235 - INFO - Transforming data
+2025-02-10 15:24:59,237 - INFO - Data successfully transformed
+2025-02-10 15:24:59,311 - INFO - Loading data
+2025-02-10 15:24:59,426 - INFO - Data successfully loaded
+2025-02-10 15:25:59,715 - INFO - ETL pipeline started.
+2025-02-10 15:25:59,715 - INFO - Extraction has started
+2025-02-10 15:26:00,955 - INFO - Succesful API request
+2025-02-10 15:26:01,491 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:26:02,746 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:26:03,775 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:26:04,819 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:26:05,900 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:26:06,905 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:26:07,980 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:26:09,015 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:26:10,047 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:26:11,109 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:26:11,644 - INFO - Extraction has finished
+2025-02-10 15:26:11,645 - INFO - Transforming data
+2025-02-10 15:26:11,647 - INFO - Data successfully transformed
+2025-02-10 15:26:11,727 - INFO - Loading data
+2025-02-10 15:26:11,842 - INFO - Data successfully loaded
+2025-02-10 15:33:07,459 - INFO - ETL pipeline started.
+2025-02-10 15:33:07,461 - INFO - Extraction has started
+2025-02-10 15:33:08,865 - INFO - Succesful API request
+2025-02-10 15:33:09,369 - INFO - Succesfully fetched data for /works/OL36287W
+2025-02-10 15:33:10,446 - INFO - Succesfully fetched data for /works/OL36861W
+2025-02-10 15:33:11,690 - INFO - Succesfully fetched data for /works/OL36371W
+2025-02-10 15:33:12,790 - INFO - Succesfully fetched data for /works/OL857568W
+2025-02-10 15:33:14,059 - INFO - Succesfully fetched data for /works/OL149119W
+2025-02-10 15:33:15,122 - INFO - Succesfully fetched data for /works/OL36633W
+2025-02-10 15:33:16,187 - INFO - Succesfully fetched data for /works/OL66554W
+2025-02-10 15:33:17,267 - INFO - Succesfully fetched data for /works/OL259010W
+2025-02-10 15:33:18,277 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-10 15:33:19,386 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-10 15:33:19,933 - INFO - Extraction has finished
+2025-02-10 15:33:19,934 - INFO - Transforming data
+2025-02-10 15:33:19,936 - INFO - Data successfully transformed
+2025-02-10 15:33:20,010 - INFO - Loading data
+2025-02-10 15:33:20,122 - INFO - Data successfully loaded
+2025-02-10 15:33:44,969 - INFO - ETL pipeline started.
+2025-02-10 15:33:44,969 - INFO - Extraction has started
+2025-02-10 15:33:45,937 - INFO - Succesful API request
+2025-02-10 15:33:46,465 - INFO - Succesfully fetched data for /works/OL20867W
+2025-02-10 15:33:47,515 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-10 15:33:48,512 - INFO - Succesfully fetched data for /works/OL1262495W
+2025-02-10 15:33:49,577 - INFO - Succesfully fetched data for /works/OL20938W
+2025-02-10 15:33:50,623 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:33:51,714 - INFO - Succesfully fetched data for /works/OL19870W
+2025-02-10 15:33:52,731 - INFO - Succesfully fetched data for /works/OL19908W
+2025-02-10 15:33:53,753 - INFO - Succesfully fetched data for /works/OL62744W
+2025-02-10 15:33:54,827 - INFO - Succesfully fetched data for /works/OL515051W
+2025-02-10 15:33:55,916 - INFO - Succesfully fetched data for /works/OL76827W
+2025-02-10 15:33:56,452 - INFO - Extraction has finished
+2025-02-10 15:33:56,454 - INFO - Transforming data
+2025-02-10 15:33:56,455 - INFO - Data successfully transformed
+2025-02-10 15:33:56,533 - INFO - Loading data
+2025-02-10 15:33:56,648 - INFO - Data successfully loaded
+2025-02-10 15:37:23,786 - INFO - ETL pipeline started.
+2025-02-10 15:37:23,787 - INFO - Extraction has started
+2025-02-10 15:37:24,812 - INFO - Succesful API request
+2025-02-10 15:37:25,291 - INFO - Succesfully fetched data for /works/OL20867W
+2025-02-10 15:37:26,766 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-10 15:37:27,780 - INFO - Succesfully fetched data for /works/OL1262495W
+2025-02-10 15:37:28,807 - INFO - Succesfully fetched data for /works/OL20938W
+2025-02-10 15:37:30,034 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:37:31,099 - INFO - Succesfully fetched data for /works/OL19870W
+2025-02-10 15:37:32,182 - INFO - Succesfully fetched data for /works/OL19908W
+2025-02-10 15:37:33,215 - INFO - Succesfully fetched data for /works/OL62744W
+2025-02-10 15:37:34,213 - INFO - Succesfully fetched data for /works/OL515051W
+2025-02-10 15:37:35,277 - INFO - Succesfully fetched data for /works/OL76827W
+2025-02-10 15:37:35,810 - INFO - Extraction has finished
+2025-02-10 15:37:35,811 - INFO - Transforming data
+2025-02-10 15:37:35,813 - INFO - Data successfully transformed
+2025-02-10 15:37:35,888 - INFO - Loading data
+2025-02-10 15:37:36,004 - INFO - Data successfully loaded
+2025-02-10 15:38:02,904 - INFO - ETL pipeline started.
+2025-02-10 15:38:02,905 - INFO - Extraction has started
+2025-02-10 15:38:03,839 - INFO - Succesful API request
+2025-02-10 15:38:04,360 - INFO - Succesfully fetched data for /works/OL20867W
+2025-02-10 15:38:05,397 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-10 15:38:06,452 - INFO - Succesfully fetched data for /works/OL1262495W
+2025-02-10 15:38:07,453 - INFO - Succesfully fetched data for /works/OL20938W
+2025-02-10 15:38:08,664 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:38:10,293 - INFO - Succesfully fetched data for /works/OL19870W
+2025-02-10 15:38:11,302 - INFO - Succesfully fetched data for /works/OL19908W
+2025-02-10 15:38:12,432 - INFO - Succesfully fetched data for /works/OL62744W
+2025-02-10 15:38:13,567 - INFO - Succesfully fetched data for /works/OL515051W
+2025-02-10 15:38:14,901 - INFO - Succesfully fetched data for /works/OL76827W
+2025-02-10 15:38:15,602 - INFO - Extraction has finished
+2025-02-10 15:38:15,603 - INFO - Transforming data
+2025-02-10 15:38:15,604 - INFO - Data successfully transformed
+2025-02-10 15:38:15,678 - INFO - Loading data
+2025-02-10 15:38:15,779 - INFO - Data successfully loaded
+2025-02-10 15:39:34,451 - INFO - ETL pipeline started.
+2025-02-10 15:39:34,451 - INFO - Extraction has started
+2025-02-10 15:39:35,470 - INFO - Succesful API request
+2025-02-10 15:39:35,959 - INFO - Succesfully fetched data for /works/OL20867W
+2025-02-10 15:39:37,019 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-10 15:39:38,068 - INFO - Succesfully fetched data for /works/OL1262495W
+2025-02-10 15:39:39,132 - INFO - Succesfully fetched data for /works/OL20938W
+2025-02-10 15:39:40,169 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:39:41,187 - INFO - Succesfully fetched data for /works/OL19870W
+2025-02-10 15:39:42,221 - INFO - Succesfully fetched data for /works/OL19908W
+2025-02-10 15:39:43,305 - INFO - Succesfully fetched data for /works/OL62744W
+2025-02-10 15:39:45,523 - INFO - Succesfully fetched data for /works/OL515051W
+2025-02-10 15:39:46,638 - INFO - Succesfully fetched data for /works/OL76827W
+2025-02-10 15:39:47,183 - INFO - Extraction has finished
+2025-02-10 15:39:47,184 - INFO - Transforming data
+2025-02-10 15:39:47,185 - INFO - Data successfully transformed
+2025-02-10 15:39:47,258 - INFO - Loading data
+2025-02-10 15:39:47,357 - INFO - Data successfully loaded
+2025-02-10 15:46:20,218 - INFO - ETL pipeline started.
+2025-02-10 15:46:20,219 - INFO - Extraction has started
+2025-02-10 15:46:21,236 - INFO - Succesful API request
+2025-02-10 15:46:21,747 - INFO - Succesfully fetched data for /works/OL20867W
+2025-02-10 15:46:22,791 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-10 15:46:23,825 - INFO - Succesfully fetched data for /works/OL1262495W
+2025-02-10 15:46:24,831 - INFO - Succesfully fetched data for /works/OL20938W
+2025-02-10 15:46:25,851 - INFO - Succesfully fetched data for /works/OL176092W
+2025-02-10 15:46:26,875 - INFO - Succesfully fetched data for /works/OL19870W
+2025-02-10 15:46:28,099 - INFO - Succesfully fetched data for /works/OL19908W
+2025-02-10 15:46:29,128 - INFO - Succesfully fetched data for /works/OL62744W
+2025-02-10 15:46:30,146 - INFO - Succesfully fetched data for /works/OL515051W
+2025-02-10 15:46:31,130 - INFO - Succesfully fetched data for /works/OL76827W
+2025-02-10 15:46:31,646 - INFO - Extraction has finished
+2025-02-10 15:46:31,647 - INFO - Transforming data
+2025-02-10 15:46:31,649 - INFO - Data successfully transformed
+2025-02-10 15:46:31,727 - INFO - Loading data
+2025-02-10 15:46:31,830 - INFO - Data successfully loaded
