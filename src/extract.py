@@ -70,7 +70,10 @@ def extract(url, q='Python', limit=10):
                 if isinstance(description, dict):
                     description = description.get('value', 'No description available')
                 subjects = book_metadata.get('subjects', [])
-
+                if isinstance(subjects, set):
+                    subjects = list(subjects)
+                else:
+                    subjects = []
                 
                 # Add this information to the book dictionary
                 book['description'] = description

@@ -1,5 +1,7 @@
 # Bookstore ETL
 
+-- Under construction --
+
 ## Project Overview
 Bookstore ETL is a data pipeline that extracts book metadata from the Open Library API, transforms it for relevance, and loads it into a PostgreSQL database. The goal is to develop a personalized book recommendation system based on user preferences.
 
