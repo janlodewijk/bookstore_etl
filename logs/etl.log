@@ -1748,3 +1748,93 @@ LINE 5: ...irst_publish_year IS NULL OR first_publish_year = 'Unknown' ...
 2025-02-10 15:46:31,649 - INFO - Data successfully transformed
 2025-02-10 15:46:31,727 - INFO - Loading data
 2025-02-10 15:46:31,830 - INFO - Data successfully loaded
+2025-02-16 20:05:02,552 - INFO - ETL pipeline started.
+2025-02-16 20:05:02,552 - INFO - Extraction has started
+2025-02-16 20:05:03,771 - INFO - Succesful API request
+2025-02-16 20:05:04,277 - INFO - Succesfully fetched data for /works/OL26492W
+2025-02-16 20:05:05,334 - INFO - Succesfully fetched data for /works/OL26610W
+2025-02-16 20:05:06,354 - INFO - Succesfully fetched data for /works/OL1140109W
+2025-02-16 20:05:07,383 - INFO - Succesfully fetched data for /works/OL100672W
+2025-02-16 20:05:08,382 - INFO - Succesfully fetched data for /works/OL80947W
+2025-02-16 20:05:09,475 - INFO - Succesfully fetched data for /works/OL20156281W
+2025-02-16 20:05:10,534 - INFO - Succesfully fetched data for /works/OL21177W
+2025-02-16 20:05:11,559 - INFO - Succesfully fetched data for /works/OL144822W
+2025-02-16 20:05:12,581 - INFO - Succesfully fetched data for /works/OL77958W
+2025-02-16 20:05:13,790 - INFO - Succesfully fetched data for /works/OL357501W
+2025-02-16 20:05:14,320 - INFO - Extraction has finished
+2025-02-16 20:05:14,322 - INFO - Transforming data
+2025-02-16 20:05:14,323 - INFO - Data successfully transformed
+2025-02-16 20:05:14,546 - INFO - Loading data
+2025-02-16 20:05:14,764 - INFO - Data successfully loaded
+2025-02-16 20:07:29,103 - INFO - ETL pipeline started.
+2025-02-16 20:07:29,104 - INFO - Extraction has started
+2025-02-16 20:07:30,004 - INFO - Succesful API request
+2025-02-16 20:07:30,490 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-16 20:07:31,778 - INFO - Succesfully fetched data for /works/OL77746W
+2025-02-16 20:07:32,812 - INFO - Succesfully fetched data for /works/OL260847W
+2025-02-16 20:07:33,835 - INFO - Succesfully fetched data for /works/OL9170454W
+2025-02-16 20:07:34,870 - INFO - Succesfully fetched data for /works/OL1089297W
+2025-02-16 20:07:35,865 - INFO - Succesfully fetched data for /works/OL20150260W
+2025-02-16 20:07:36,860 - INFO - Succesfully fetched data for /works/OL17887575W
+2025-02-16 20:07:37,868 - INFO - Succesfully fetched data for /works/OL24151602W
+2025-02-16 20:07:38,888 - INFO - Succesfully fetched data for /works/OL48510W
+2025-02-16 20:07:39,983 - INFO - Succesfully fetched data for /works/OL2320041W
+2025-02-16 20:07:40,548 - INFO - Extraction has finished
+2025-02-16 20:07:40,549 - INFO - Transforming data
+2025-02-16 20:07:40,550 - INFO - Data successfully transformed
+2025-02-16 20:07:40,633 - INFO - Loading data
+2025-02-16 20:07:40,849 - INFO - Data successfully loaded
+2025-02-16 20:08:21,971 - INFO - ETL pipeline started.
+2025-02-16 20:08:21,971 - INFO - Extraction has started
+2025-02-16 20:08:22,520 - INFO - Succesful API request
+2025-02-16 20:08:23,052 - INFO - Succesfully fetched data for /works/OL102749W
+2025-02-16 20:08:24,540 - INFO - Succesfully fetched data for /works/OL20746848W
+2025-02-16 20:08:25,543 - INFO - Succesfully fetched data for /works/OL26158026W
+2025-02-16 20:08:26,596 - INFO - Succesfully fetched data for /works/OL26282779W
+2025-02-16 20:08:27,571 - INFO - Succesfully fetched data for /works/OL26032991W
+2025-02-16 20:08:28,582 - INFO - Succesfully fetched data for /works/OL30237660W
+2025-02-16 20:08:29,599 - INFO - Succesfully fetched data for /works/OL30021372W
+2025-02-16 20:08:30,690 - INFO - Succesfully fetched data for /works/OL36180413W
+2025-02-16 20:08:31,728 - INFO - Succesfully fetched data for /works/OL34419331W
+2025-02-16 20:08:32,775 - INFO - Succesfully fetched data for /works/OL29531316W
+2025-02-16 20:08:33,290 - INFO - Extraction has finished
+2025-02-16 20:08:33,290 - INFO - Transforming data
+2025-02-16 20:08:33,290 - INFO - Data successfully transformed
+2025-02-16 20:08:33,373 - INFO - Loading data
+2025-02-16 20:08:33,481 - INFO - Data successfully loaded
+2025-02-16 20:09:08,941 - INFO - ETL pipeline started.
+2025-02-16 20:09:08,941 - INFO - Extraction has started
+2025-02-16 20:09:09,988 - INFO - Succesful API request
+2025-02-16 20:09:10,671 - INFO - Succesfully fetched data for /works/OL267174W
+2025-02-16 20:09:12,814 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-16 20:09:15,010 - INFO - Succesfully fetched data for /works/OL267096W
+2025-02-16 20:09:16,787 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-16 20:09:17,851 - INFO - Succesfully fetched data for /works/OL166899W
+2025-02-16 20:09:18,866 - INFO - Succesfully fetched data for /works/OL43370W
+2025-02-16 20:09:19,930 - INFO - Succesfully fetched data for /works/OL1527356W
+2025-02-16 20:09:20,993 - INFO - Succesfully fetched data for /works/OL675696W
+2025-02-16 20:09:22,006 - INFO - Succesfully fetched data for /works/OL457760W
+2025-02-16 20:09:23,049 - INFO - Succesfully fetched data for /works/OL687015W
+2025-02-16 20:09:23,635 - INFO - Extraction has finished
+2025-02-16 20:09:23,635 - INFO - Transforming data
+2025-02-16 20:09:23,635 - INFO - Data successfully transformed
+2025-02-16 20:09:23,725 - INFO - Loading data
+2025-02-16 20:09:23,827 - INFO - Data successfully loaded
+2025-02-16 20:11:04,276 - INFO - ETL pipeline started.
+2025-02-16 20:11:04,276 - INFO - Extraction has started
+2025-02-16 20:11:05,357 - INFO - Succesful API request
+2025-02-16 20:11:06,019 - INFO - Succesfully fetched data for /works/OL267174W
+2025-02-16 20:11:07,087 - INFO - Succesfully fetched data for /works/OL267171W
+2025-02-16 20:11:08,126 - INFO - Succesfully fetched data for /works/OL267096W
+2025-02-16 20:11:09,155 - INFO - Succesfully fetched data for /works/OL21868175W
+2025-02-16 20:11:10,411 - INFO - Succesfully fetched data for /works/OL166899W
+2025-02-16 20:11:11,664 - INFO - Succesfully fetched data for /works/OL43370W
+2025-02-16 20:11:12,917 - INFO - Succesfully fetched data for /works/OL1527356W
+2025-02-16 20:11:14,383 - INFO - Succesfully fetched data for /works/OL675696W
+2025-02-16 20:11:16,017 - INFO - Succesfully fetched data for /works/OL457760W
+2025-02-16 20:11:17,127 - INFO - Succesfully fetched data for /works/OL687015W
+2025-02-16 20:11:17,706 - INFO - Extraction has finished
+2025-02-16 20:11:17,706 - INFO - Transforming data
+2025-02-16 20:11:17,706 - INFO - Data successfully transformed
+2025-02-16 20:11:17,792 - INFO - Loading data
+2025-02-16 20:11:17,904 - INFO - Data successfully loaded
