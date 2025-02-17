@@ -3,28 +3,35 @@ import logging
 
 
 def clean_subjects(subjects):
-    """Remove overly specific or irrelevant subjects."""
-    
-    if isinstance(subjects, list):
+    """Remove overly specific or irrelevant subjects and return a cleaned list."""
+
+    if isinstance(subjects, (list, set)):  # Handle both sets and lists
+        # Convert the set to a sorted list to ensure consistent order
+        subjects_list = sorted(subjects)  
+
+        # Convert the list to a single string with " | " separator
+        subjects_str = " | ".join(subjects_list)
+
+        # Remove quotes and commas, strip whitespace
+        subjects_str = subjects_str.replace('"', '').replace(',', '').strip()
+
+        # Convert to lowercase
+        subjects_str = subjects_str.lower()
+
+        # Split back into a list and filter
         filtered_subjects = []
-        
-        for sub in subjects:
-            
-            # Remove quotes and commas and strip whitespace
-            clean_sub = sub.replace('"', '').replace(',', '').strip()
-            
-            # Rule 1: Remove subjects with numbers, colons or very ong names:
+        for sub in subjects_str.split(" | "):
+            # Rule 1: Remove subjects with numbers, colons, or very long names
             if any(char.isdigit() for char in sub) or ":" in sub or len(sub) > 50:
                 continue
-            
-            # Rule 2: Convert to lower case
-            clean_sub = sub.lower()
-            filtered_subjects.append(clean_sub)
-        
+            filtered_subjects.append(sub)
+
         # Keep only the top 5 most relevant subjects
-        return list(set(filtered_subjects[:5])) if filtered_subjects else ['Subject unknown']
-    
-    return['Subject unknown']
+        return filtered_subjects[:5] if filtered_subjects else ['Subject unknown']
+
+    return ['Subject unknown']
+
+
 
 
 def transform(raw_data):

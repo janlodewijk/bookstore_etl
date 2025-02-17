@@ -71,8 +71,7 @@ def extract(url, q='Python', limit=10):
                     description = description.get('value', 'No description available')
                 subjects = book_metadata.get('subjects', [])
 
-                
-                # Add this information to the book dictionary
+                                # Add this information to the book dictionary
                 book['description'] = description
                 book['subjects'] = subjects
                 

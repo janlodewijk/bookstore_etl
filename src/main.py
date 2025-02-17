@@ -20,11 +20,12 @@ if __name__ == '__main__':
     
 
 url = 'https://openlibrary.org/search.json'
-q='tolstoy'
+q='dickens'
 
 raw_data = extract(url=url, q=q, limit=10)
 
 transformed_data = transform(raw_data)
-print(transformed_data['subjects'].dtype)
+
+print(transformed_data['subjects'].head())
 
 load(transformed_data, user_name, password)

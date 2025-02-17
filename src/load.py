@@ -1,4 +1,5 @@
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine, text, String
+from sqlalchemy.dialects.postgresql import ARRAY
 import pandas as pd
 import logging
 
@@ -28,25 +29,33 @@ def load(transformed_data, user_name, password, host='localhost', port=5432, db_
             transformed_data['first_publish_year'] = pd.to_numeric(transformed_data['first_publish_year'], errors='coerce')
             
             # Before loading the data:
-            transformed_data['subjects'] = transformed_data['subjects'].apply(lambda x: list(eval(str(x))) if isinstance(x, str) else list(x))
-
+            transformed_data['subjects'] = transformed_data['subjects'].apply(lambda x: x if isinstance(x, list) else str(x).split(' | '))
             
             # Ensure the 'book_id' is unique per book    
             transformed_data.drop_duplicates(subset='book_id', inplace=True)
             
             # Load data to a temporary table first
-            transformed_data.to_sql('books_temp', con=connection, if_exists='replace', index=False)
+            transformed_data.to_sql('books_temp', con=connection, if_exists='replace', index=False,
+                        dtype={'subjects': ARRAY(String)})	
             
             # Use SQL to insert or update
             sql = text("""
                        INSERT INTO books (book_id, title, author, first_publish_year, description, subjects, cover_url, avg_rating, num_reviews)
-                       SELECT book_id, title, author,
+                        SELECT 
+                            book_id, 
+                            title, 
+                            author,
                             CASE
                                 WHEN first_publish_year IS NULL THEN NULL
                                 ELSE CAST(first_publish_year AS BIGINT)
-                            END as first_publish_year,
-                            description, subjects, cover_url, avg_rating, num_reviews FROM books_temp
-                       ON CONFLICT (book_id) DO UPDATE SET
+                            END AS first_publish_year,
+                            description,
+                            ARRAY(SELECT unnest(subjects)::TEXT) AS subjects,  -- Ensure subjects are properly formatted as TEXT[]
+                            cover_url, 
+                            avg_rating, 
+                            num_reviews 
+                        FROM books_temp
+                        ON CONFLICT (book_id) DO UPDATE SET
                             title = EXCLUDED.title,
                             author = EXCLUDED.author,
                             first_publish_year = EXCLUDED.first_publish_year,
@@ -62,5 +71,5 @@ def load(transformed_data, user_name, password, host='localhost', port=5432, db_
             logging.info('Data successfully loaded')
     
     except Exception as e:
-        logging.error(f'Error occurred during loading precess: {e}')
+        logging.error(f'Error occurred during loading process: {e}')
 
